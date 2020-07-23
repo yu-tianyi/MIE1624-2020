@@ -1,0 +1,891 @@
+,Course Names,Course Length,Course Descriptions,Chapter Names,Chapter Links
+0,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Introduction to Big Data,https://www.coursera.org/learn/big-data-introduction?specialization=big-data
+1,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Big Data Modeling and Management Systems,https://www.coursera.org/learn/big-data-management?specialization=big-data
+2,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Big Data Integration and Processing,https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data
+3,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Machine Learning With Big Data,https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data
+4,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Graph Analytics for Big Data,https://www.coursera.org/learn/big-data-graph-analytics
+5,Big Data Specialization,6,"Drive better business decisions with an overview of how big data is organized, analyzed, and interpreted. Apply your insights to real-world problems and questions.
+
+*********
+
+Do you need to understand big data and how it will impact your business? This Specialization is for you. You will gain an understanding of what insights big data can provide through hands-on experience with the tools and systems used by big data scientists and engineers. Previous programming experience is not required! You will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive. By following along with provided code, you will experience how one can perform predictive modeling and leverage graph analytics to model problems. This specialization will prepare you to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. In the final Capstone Project, developed in partnership with data software company Splunk, youâll apply the skills you learned to do basic analyses of big data.",Big Data - Capstone Project,https://www.coursera.org/learn/big-data-project
+6,Big Data â IntroducciÃ³n al uso prÃ¡ctico de datos masivos  Specialization,5,"Este programa estÃ¡ pensado como una entrada al mundo de los datos masivos y su tratamiento. El primer curso tiene como objetivo mostrar al estudiante el impacto del Big Data en la sociedad actual, tanto en el mundo de los negocios como en el de la polÃ­tica y administraciones pÃºblicas, los medios de comunicaciÃ³n y/o la investigaciÃ³n cientÃ­fica. A lo largo de los cursos 2, 3 y 4 se estudian la identificaciÃ³n, captura, pre-procesamiento, anÃ¡lisis y visualizaciÃ³n de datos, desde un punto de vista âusuarioâ, y con una orientaciÃ³n prÃ¡ctica. Finalmente, el Capstone Project permite al estudiante aplicar los conocimientos adquiridos a un caso prÃ¡ctico del campo de la astronomÃ­a.
+
+Al finalizar los cursos de esta especializaciÃ³n el estudiante serÃ¡ capaz de:
+
+1. Entender el impacto del tratamiento de datos masivos en la sociedad actual.
+
+2. Entender y explicar la procedencia y caracterÃ­sticas de los datos masivos.
+
+3. Adquirir, preparar, almacenar, analizar, visualizar y manejar grandes conjuntos de datos.
+
+4. Extraer informaciÃ³n de los datos.
+
+5. Trabajar dentro del ecosistema Hadoop.
+
+6. Contestar a una pregunta bien formulada en funciÃ³n de la informaciÃ³n disponible.
+
+Contamos con un conjunto maravilloso de profesores, con una gran experiencia en el tema, provenientes tanto de la universidad como de la empresa.
+
+NecesitarÃ¡s una computadora de 64bits que permita virtualizacion, con un mÃ­nimo de 6G de RAM (8G recomendable) y 20G disponibles en disco.",Big Data: el impacto de los datos masivos en la sociedad actual,https://www.coursera.org/learn/impacto-datos-masivos?specialization=big-data-introduccion
+7,Big Data â IntroducciÃ³n al uso prÃ¡ctico de datos masivos  Specialization,5,"Este programa estÃ¡ pensado como una entrada al mundo de los datos masivos y su tratamiento. El primer curso tiene como objetivo mostrar al estudiante el impacto del Big Data en la sociedad actual, tanto en el mundo de los negocios como en el de la polÃ­tica y administraciones pÃºblicas, los medios de comunicaciÃ³n y/o la investigaciÃ³n cientÃ­fica. A lo largo de los cursos 2, 3 y 4 se estudian la identificaciÃ³n, captura, pre-procesamiento, anÃ¡lisis y visualizaciÃ³n de datos, desde un punto de vista âusuarioâ, y con una orientaciÃ³n prÃ¡ctica. Finalmente, el Capstone Project permite al estudiante aplicar los conocimientos adquiridos a un caso prÃ¡ctico del campo de la astronomÃ­a.
+
+Al finalizar los cursos de esta especializaciÃ³n el estudiante serÃ¡ capaz de:
+
+1. Entender el impacto del tratamiento de datos masivos en la sociedad actual.
+
+2. Entender y explicar la procedencia y caracterÃ­sticas de los datos masivos.
+
+3. Adquirir, preparar, almacenar, analizar, visualizar y manejar grandes conjuntos de datos.
+
+4. Extraer informaciÃ³n de los datos.
+
+5. Trabajar dentro del ecosistema Hadoop.
+
+6. Contestar a una pregunta bien formulada en funciÃ³n de la informaciÃ³n disponible.
+
+Contamos con un conjunto maravilloso de profesores, con una gran experiencia en el tema, provenientes tanto de la universidad como de la empresa.
+
+NecesitarÃ¡s una computadora de 64bits que permita virtualizacion, con un mÃ­nimo de 6G de RAM (8G recomendable) y 20G disponibles en disco.",Big Data: adquisición y almacenamiento de datos,https://www.coursera.org/learn/adquisicion-almacenamiento-de-datos?specialization=big-data-introduccion
+8,Big Data â IntroducciÃ³n al uso prÃ¡ctico de datos masivos  Specialization,5,"Este programa estÃ¡ pensado como una entrada al mundo de los datos masivos y su tratamiento. El primer curso tiene como objetivo mostrar al estudiante el impacto del Big Data en la sociedad actual, tanto en el mundo de los negocios como en el de la polÃ­tica y administraciones pÃºblicas, los medios de comunicaciÃ³n y/o la investigaciÃ³n cientÃ­fica. A lo largo de los cursos 2, 3 y 4 se estudian la identificaciÃ³n, captura, pre-procesamiento, anÃ¡lisis y visualizaciÃ³n de datos, desde un punto de vista âusuarioâ, y con una orientaciÃ³n prÃ¡ctica. Finalmente, el Capstone Project permite al estudiante aplicar los conocimientos adquiridos a un caso prÃ¡ctico del campo de la astronomÃ­a.
+
+Al finalizar los cursos de esta especializaciÃ³n el estudiante serÃ¡ capaz de:
+
+1. Entender el impacto del tratamiento de datos masivos en la sociedad actual.
+
+2. Entender y explicar la procedencia y caracterÃ­sticas de los datos masivos.
+
+3. Adquirir, preparar, almacenar, analizar, visualizar y manejar grandes conjuntos de datos.
+
+4. Extraer informaciÃ³n de los datos.
+
+5. Trabajar dentro del ecosistema Hadoop.
+
+6. Contestar a una pregunta bien formulada en funciÃ³n de la informaciÃ³n disponible.
+
+Contamos con un conjunto maravilloso de profesores, con una gran experiencia en el tema, provenientes tanto de la universidad como de la empresa.
+
+NecesitarÃ¡s una computadora de 64bits que permita virtualizacion, con un mÃ­nimo de 6G de RAM (8G recomendable) y 20G disponibles en disco.",Big Data: procesamiento y análisis,https://www.coursera.org/learn/big-data-procesamiento-analisis?specialization=big-data-introduccion
+9,Big Data â IntroducciÃ³n al uso prÃ¡ctico de datos masivos  Specialization,5,"Este programa estÃ¡ pensado como una entrada al mundo de los datos masivos y su tratamiento. El primer curso tiene como objetivo mostrar al estudiante el impacto del Big Data en la sociedad actual, tanto en el mundo de los negocios como en el de la polÃ­tica y administraciones pÃºblicas, los medios de comunicaciÃ³n y/o la investigaciÃ³n cientÃ­fica. A lo largo de los cursos 2, 3 y 4 se estudian la identificaciÃ³n, captura, pre-procesamiento, anÃ¡lisis y visualizaciÃ³n de datos, desde un punto de vista âusuarioâ, y con una orientaciÃ³n prÃ¡ctica. Finalmente, el Capstone Project permite al estudiante aplicar los conocimientos adquiridos a un caso prÃ¡ctico del campo de la astronomÃ­a.
+
+Al finalizar los cursos de esta especializaciÃ³n el estudiante serÃ¡ capaz de:
+
+1. Entender el impacto del tratamiento de datos masivos en la sociedad actual.
+
+2. Entender y explicar la procedencia y caracterÃ­sticas de los datos masivos.
+
+3. Adquirir, preparar, almacenar, analizar, visualizar y manejar grandes conjuntos de datos.
+
+4. Extraer informaciÃ³n de los datos.
+
+5. Trabajar dentro del ecosistema Hadoop.
+
+6. Contestar a una pregunta bien formulada en funciÃ³n de la informaciÃ³n disponible.
+
+Contamos con un conjunto maravilloso de profesores, con una gran experiencia en el tema, provenientes tanto de la universidad como de la empresa.
+
+NecesitarÃ¡s una computadora de 64bits que permita virtualizacion, con un mÃ­nimo de 6G de RAM (8G recomendable) y 20G disponibles en disco.",Big Data: visualización de datos,https://www.coursera.org/learn/big-data-visualizacion-datos?specialization=big-data-introduccion
+10,Big Data â IntroducciÃ³n al uso prÃ¡ctico de datos masivos  Specialization,5,"Este programa estÃ¡ pensado como una entrada al mundo de los datos masivos y su tratamiento. El primer curso tiene como objetivo mostrar al estudiante el impacto del Big Data en la sociedad actual, tanto en el mundo de los negocios como en el de la polÃ­tica y administraciones pÃºblicas, los medios de comunicaciÃ³n y/o la investigaciÃ³n cientÃ­fica. A lo largo de los cursos 2, 3 y 4 se estudian la identificaciÃ³n, captura, pre-procesamiento, anÃ¡lisis y visualizaciÃ³n de datos, desde un punto de vista âusuarioâ, y con una orientaciÃ³n prÃ¡ctica. Finalmente, el Capstone Project permite al estudiante aplicar los conocimientos adquiridos a un caso prÃ¡ctico del campo de la astronomÃ­a.
+
+Al finalizar los cursos de esta especializaciÃ³n el estudiante serÃ¡ capaz de:
+
+1. Entender el impacto del tratamiento de datos masivos en la sociedad actual.
+
+2. Entender y explicar la procedencia y caracterÃ­sticas de los datos masivos.
+
+3. Adquirir, preparar, almacenar, analizar, visualizar y manejar grandes conjuntos de datos.
+
+4. Extraer informaciÃ³n de los datos.
+
+5. Trabajar dentro del ecosistema Hadoop.
+
+6. Contestar a una pregunta bien formulada en funciÃ³n de la informaciÃ³n disponible.
+
+Contamos con un conjunto maravilloso de profesores, con una gran experiencia en el tema, provenientes tanto de la universidad como de la empresa.
+
+NecesitarÃ¡s una computadora de 64bits que permita virtualizacion, con un mÃ­nimo de 6G de RAM (8G recomendable) y 20G disponibles en disco.",Big Data: capstone project,https://www.coursera.org/learn/big-data-proyecto
+11,Modern Big Data Analysis with SQL Specialization,3,"This Specialization teaches the essential skills for working with large-scale data using SQL.Maybe you are new to SQL and you want to learn the basics. Or maybe you already have some experience using SQL to query smaller-scale data with relational databases. Either way, if you are interested in gaining the skills necessary to query big data with modern distributed SQL engines, this Specialization is for you.
+
+Most courses that teach SQL focus on traditional relational databases, but today, more and more of the data thatâs being generated is too big to be stored there, and itâs growing too quickly to be efficiently stored in commercial data warehouses. Instead, itâs increasingly stored in distributed clusters and cloud storage. These data stores are cost-efficient and infinitely scalable.
+
+To query these huge datasets in clusters and cloud storage, you need a newer breed of SQL engine: distributed query engines, like Hive, Impala, Presto, and Drill. These are open source SQL engines capable of querying enormous datasets. This Specialization focuses on Hive and Impala, the most widely deployed of these query engines.
+
+This Specialization is designed to provide excellent preparation for the Cloudera Certified Associate (CCA) Data Analyst certification exam. You can earn this certification credential by taking a hands-on practical exam using the same SQL engines that this Specialization teachesâHive and Impala.",Foundations for Big Data Analysis with SQL,https://www.coursera.org/learn/foundations-big-data-analysis-sql
+12,Modern Big Data Analysis with SQL Specialization,3,"This Specialization teaches the essential skills for working with large-scale data using SQL.Maybe you are new to SQL and you want to learn the basics. Or maybe you already have some experience using SQL to query smaller-scale data with relational databases. Either way, if you are interested in gaining the skills necessary to query big data with modern distributed SQL engines, this Specialization is for you.
+
+Most courses that teach SQL focus on traditional relational databases, but today, more and more of the data thatâs being generated is too big to be stored there, and itâs growing too quickly to be efficiently stored in commercial data warehouses. Instead, itâs increasingly stored in distributed clusters and cloud storage. These data stores are cost-efficient and infinitely scalable.
+
+To query these huge datasets in clusters and cloud storage, you need a newer breed of SQL engine: distributed query engines, like Hive, Impala, Presto, and Drill. These are open source SQL engines capable of querying enormous datasets. This Specialization focuses on Hive and Impala, the most widely deployed of these query engines.
+
+This Specialization is designed to provide excellent preparation for the Cloudera Certified Associate (CCA) Data Analyst certification exam. You can earn this certification credential by taking a hands-on practical exam using the same SQL engines that this Specialization teachesâHive and Impala.",Analyzing Big Data with SQL,https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries
+13,Modern Big Data Analysis with SQL Specialization,3,"This Specialization teaches the essential skills for working with large-scale data using SQL.Maybe you are new to SQL and you want to learn the basics. Or maybe you already have some experience using SQL to query smaller-scale data with relational databases. Either way, if you are interested in gaining the skills necessary to query big data with modern distributed SQL engines, this Specialization is for you.
+
+Most courses that teach SQL focus on traditional relational databases, but today, more and more of the data thatâs being generated is too big to be stored there, and itâs growing too quickly to be efficiently stored in commercial data warehouses. Instead, itâs increasingly stored in distributed clusters and cloud storage. These data stores are cost-efficient and infinitely scalable.
+
+To query these huge datasets in clusters and cloud storage, you need a newer breed of SQL engine: distributed query engines, like Hive, Impala, Presto, and Drill. These are open source SQL engines capable of querying enormous datasets. This Specialization focuses on Hive and Impala, the most widely deployed of these query engines.
+
+This Specialization is designed to provide excellent preparation for the Cloudera Certified Associate (CCA) Data Analyst certification exam. You can earn this certification credential by taking a hands-on practical exam using the same SQL engines that this Specialization teachesâHive and Impala.",Managing Big Data in Clusters and Cloud Storage,https://www.coursera.org/learn/cloud-storage-big-data-analysis-sql
+14,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",4,"This online specialization provides participants a hands-on introduction to designing and building data pipelines on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn how to design data processing systems, build end-to-end data pipelines, analyze data and derive insights. The course covers structured, unstructured, and streaming data.This course teaches the following skills:
+
+â¢ Design and build data pipelines on Google Cloud Platform
+
+â¢ Lift and shift your existing Hadoop workloads to the Cloud using Cloud Dataproc.
+
+â¢ Process batch and streaming data by implementing autoscaling data pipelines on Cloud Dataflow
+
+â¢ Manage your data Pipelines with Data Fusion and Cloud Composer.
+
+â¢ Derive business insights from extremely large datasets using Google BigQuery
+
+â¢ Learn how to use pre-built ML APIs on unstructured data and build different kinds of ML models using BigQuery ML.
+
+â¢ Enable instant insights from streaming data
+
+This class is intended for developers who are responsible for:
+
+â¢ Extracting, Loading, Transforming, cleaning, and validating data
+
+â¢ Designing pipelines and architectures for data processing
+
+â¢ Integrating analytics and machine learning capabilities into data pipelines
+
+â¢ Querying datasets, visualizing query results and creating reports
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Google Cloud Platform Big Data and Machine Learning Fundamentals,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning
+15,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",4,"This online specialization provides participants a hands-on introduction to designing and building data pipelines on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn how to design data processing systems, build end-to-end data pipelines, analyze data and derive insights. The course covers structured, unstructured, and streaming data.This course teaches the following skills:
+
+â¢ Design and build data pipelines on Google Cloud Platform
+
+â¢ Lift and shift your existing Hadoop workloads to the Cloud using Cloud Dataproc.
+
+â¢ Process batch and streaming data by implementing autoscaling data pipelines on Cloud Dataflow
+
+â¢ Manage your data Pipelines with Data Fusion and Cloud Composer.
+
+â¢ Derive business insights from extremely large datasets using Google BigQuery
+
+â¢ Learn how to use pre-built ML APIs on unstructured data and build different kinds of ML models using BigQuery ML.
+
+â¢ Enable instant insights from streaming data
+
+This class is intended for developers who are responsible for:
+
+â¢ Extracting, Loading, Transforming, cleaning, and validating data
+
+â¢ Designing pipelines and architectures for data processing
+
+â¢ Integrating analytics and machine learning capabilities into data pipelines
+
+â¢ Querying datasets, visualizing query results and creating reports
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<", Modernizing Data Lakes and Data Warehouses with GCP,https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning
+16,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",4,"This online specialization provides participants a hands-on introduction to designing and building data pipelines on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn how to design data processing systems, build end-to-end data pipelines, analyze data and derive insights. The course covers structured, unstructured, and streaming data.This course teaches the following skills:
+
+â¢ Design and build data pipelines on Google Cloud Platform
+
+â¢ Lift and shift your existing Hadoop workloads to the Cloud using Cloud Dataproc.
+
+â¢ Process batch and streaming data by implementing autoscaling data pipelines on Cloud Dataflow
+
+â¢ Manage your data Pipelines with Data Fusion and Cloud Composer.
+
+â¢ Derive business insights from extremely large datasets using Google BigQuery
+
+â¢ Learn how to use pre-built ML APIs on unstructured data and build different kinds of ML models using BigQuery ML.
+
+â¢ Enable instant insights from streaming data
+
+This class is intended for developers who are responsible for:
+
+â¢ Extracting, Loading, Transforming, cleaning, and validating data
+
+â¢ Designing pipelines and architectures for data processing
+
+â¢ Integrating analytics and machine learning capabilities into data pipelines
+
+â¢ Querying datasets, visualizing query results and creating reports
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Building Batch Data Pipelines on GCP,https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-machine-learning
+17,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",4,"This online specialization provides participants a hands-on introduction to designing and building data pipelines on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn how to design data processing systems, build end-to-end data pipelines, analyze data and derive insights. The course covers structured, unstructured, and streaming data.This course teaches the following skills:
+
+â¢ Design and build data pipelines on Google Cloud Platform
+
+â¢ Lift and shift your existing Hadoop workloads to the Cloud using Cloud Dataproc.
+
+â¢ Process batch and streaming data by implementing autoscaling data pipelines on Cloud Dataflow
+
+â¢ Manage your data Pipelines with Data Fusion and Cloud Composer.
+
+â¢ Derive business insights from extremely large datasets using Google BigQuery
+
+â¢ Learn how to use pre-built ML APIs on unstructured data and build different kinds of ML models using BigQuery ML.
+
+â¢ Enable instant insights from streaming data
+
+This class is intended for developers who are responsible for:
+
+â¢ Extracting, Loading, Transforming, cleaning, and validating data
+
+â¢ Designing pipelines and architectures for data processing
+
+â¢ Integrating analytics and machine learning capabilities into data pipelines
+
+â¢ Querying datasets, visualizing query results and creating reports
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Building Resilient Streaming Analytics Systems on GCP,https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-machine-learning
+18,IBM AI Engineering Professional Certificate,4,"The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
+
+You will master fundamental concepts of Machine Learning and Deep Learning, including supervised and unsupervised learning. You will utilize popular Machine Learning and Deep Learning libraries such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow applied to industry problems involving object recognition and Computer Vision, image and video processing, text analytics, Natural Language Processing, recommender systems, and other types of classifiers.
+
+You will be able to scale Machine Learning on Big Data using Apache Spark. You will build, train, and deploy different types of Deep Architectures, including Convolutional Networks, Recurrent Networks, and Autoencoders.
+
+By the end of this Professional Certificate, you will have completed several projects showcasing your proficiency in Machine Learning and Deep Learning, and become armed with skills for a career as an AI Engineer.",Machine Learning with Python,https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer
+19,IBM AI Engineering Professional Certificate,4,"The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
+
+You will master fundamental concepts of Machine Learning and Deep Learning, including supervised and unsupervised learning. You will utilize popular Machine Learning and Deep Learning libraries such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow applied to industry problems involving object recognition and Computer Vision, image and video processing, text analytics, Natural Language Processing, recommender systems, and other types of classifiers.
+
+You will be able to scale Machine Learning on Big Data using Apache Spark. You will build, train, and deploy different types of Deep Architectures, including Convolutional Networks, Recurrent Networks, and Autoencoders.
+
+By the end of this Professional Certificate, you will have completed several projects showcasing your proficiency in Machine Learning and Deep Learning, and become armed with skills for a career as an AI Engineer.",Scalable Machine Learning on Big Data using Apache Spark,https://www.coursera.org/learn/machine-learning-big-data-apache-spark?specialization=ai-engineer
+20,IBM AI Engineering Professional Certificate,4,"The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
+
+You will master fundamental concepts of Machine Learning and Deep Learning, including supervised and unsupervised learning. You will utilize popular Machine Learning and Deep Learning libraries such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow applied to industry problems involving object recognition and Computer Vision, image and video processing, text analytics, Natural Language Processing, recommender systems, and other types of classifiers.
+
+You will be able to scale Machine Learning on Big Data using Apache Spark. You will build, train, and deploy different types of Deep Architectures, including Convolutional Networks, Recurrent Networks, and Autoencoders.
+
+By the end of this Professional Certificate, you will have completed several projects showcasing your proficiency in Machine Learning and Deep Learning, and become armed with skills for a career as an AI Engineer.",Introduction to Deep Learning & Neural Networks with Keras,https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer
+21,IBM AI Engineering Professional Certificate,4,"The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
+
+You will master fundamental concepts of Machine Learning and Deep Learning, including supervised and unsupervised learning. You will utilize popular Machine Learning and Deep Learning libraries such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow applied to industry problems involving object recognition and Computer Vision, image and video processing, text analytics, Natural Language Processing, recommender systems, and other types of classifiers.
+
+You will be able to scale Machine Learning on Big Data using Apache Spark. You will build, train, and deploy different types of Deep Architectures, including Convolutional Networks, Recurrent Networks, and Autoencoders.
+
+By the end of this Professional Certificate, you will have completed several projects showcasing your proficiency in Machine Learning and Deep Learning, and become armed with skills for a career as an AI Engineer.",Deep Neural Networks with PyTorch,https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer
+22,Applied Data Science Specialization,4,"This is an action-packed specialization is for data science enthusiasts who want to acquire practical skills for real world data problems. It appeals to anyone interested in pursuing a career in Data Science, and already has foundational skills (or has completed the Introduction to Applied Data Science specialization). You will learn Python - no prior programming knowledge necessary. You will then learn data visualization and data analysis. Through our guided lectures, labs, and projects youâll get hands-on experience tackling interesting data problems. Make sure to take this specialization to solidify your Python and data science skills before diving deeper into big data, AI, and deep learning.
+
+Upon completing all courses in the specialization and receiving the Specialization certificate, you will also receive an IBM Badge recognizing you as a Specialist in Applied Data Science.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month and gives you access to graded materials and a certificate.",Python for Data Science and AI,https://www.coursera.org/learn/python-for-applied-data-science-ai
+23,Applied Data Science Specialization,4,"This is an action-packed specialization is for data science enthusiasts who want to acquire practical skills for real world data problems. It appeals to anyone interested in pursuing a career in Data Science, and already has foundational skills (or has completed the Introduction to Applied Data Science specialization). You will learn Python - no prior programming knowledge necessary. You will then learn data visualization and data analysis. Through our guided lectures, labs, and projects youâll get hands-on experience tackling interesting data problems. Make sure to take this specialization to solidify your Python and data science skills before diving deeper into big data, AI, and deep learning.
+
+Upon completing all courses in the specialization and receiving the Specialization certificate, you will also receive an IBM Badge recognizing you as a Specialist in Applied Data Science.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month and gives you access to graded materials and a certificate.",Data Analysis with Python,https://www.coursera.org/learn/data-analysis-with-python
+24,Applied Data Science Specialization,4,"This is an action-packed specialization is for data science enthusiasts who want to acquire practical skills for real world data problems. It appeals to anyone interested in pursuing a career in Data Science, and already has foundational skills (or has completed the Introduction to Applied Data Science specialization). You will learn Python - no prior programming knowledge necessary. You will then learn data visualization and data analysis. Through our guided lectures, labs, and projects youâll get hands-on experience tackling interesting data problems. Make sure to take this specialization to solidify your Python and data science skills before diving deeper into big data, AI, and deep learning.
+
+Upon completing all courses in the specialization and receiving the Specialization certificate, you will also receive an IBM Badge recognizing you as a Specialist in Applied Data Science.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month and gives you access to graded materials and a certificate.",Data Visualization with Python,https://www.coursera.org/learn/python-for-data-visualization
+25,Applied Data Science Specialization,4,"This is an action-packed specialization is for data science enthusiasts who want to acquire practical skills for real world data problems. It appeals to anyone interested in pursuing a career in Data Science, and already has foundational skills (or has completed the Introduction to Applied Data Science specialization). You will learn Python - no prior programming knowledge necessary. You will then learn data visualization and data analysis. Through our guided lectures, labs, and projects youâll get hands-on experience tackling interesting data problems. Make sure to take this specialization to solidify your Python and data science skills before diving deeper into big data, AI, and deep learning.
+
+Upon completing all courses in the specialization and receiving the Specialization certificate, you will also receive an IBM Badge recognizing you as a Specialist in Applied Data Science.
+
+LIMITED TIME OFFER: Subscription is only $39 USD per month and gives you access to graded materials and a certificate.",Applied Data Science Capstone,https://www.coursera.org/learn/applied-data-science-capstone
+26,Business Analytics Specialization,4,"This Specialization provides an introduction to big data analytics for all business professionals, including those with no prior analytics experience. Youâll learn how data analysts describe, predict, and inform business decisions in the specific areas of marketing, human resources, finance, and operations, and youâll develop basic data literacy and an analytic mindset that will help you make strategic decisions based on data. In the final Capstone Project, youâll apply your skills to interpret a real-world data set and make appropriate business strategy recommendations.",Customer Analytics,https://www.coursera.org/learn/wharton-customer-analytics?specialization=business-analytics
+27,Business Analytics Specialization,4,"This Specialization provides an introduction to big data analytics for all business professionals, including those with no prior analytics experience. Youâll learn how data analysts describe, predict, and inform business decisions in the specific areas of marketing, human resources, finance, and operations, and youâll develop basic data literacy and an analytic mindset that will help you make strategic decisions based on data. In the final Capstone Project, youâll apply your skills to interpret a real-world data set and make appropriate business strategy recommendations.",Operations Analytics,https://www.coursera.org/learn/wharton-operations-analytics?specialization=business-analytics
+28,Business Analytics Specialization,4,"This Specialization provides an introduction to big data analytics for all business professionals, including those with no prior analytics experience. Youâll learn how data analysts describe, predict, and inform business decisions in the specific areas of marketing, human resources, finance, and operations, and youâll develop basic data literacy and an analytic mindset that will help you make strategic decisions based on data. In the final Capstone Project, youâll apply your skills to interpret a real-world data set and make appropriate business strategy recommendations.",People Analytics,https://www.coursera.org/learn/wharton-people-analytics?specialization=business-analytics
+29,Business Analytics Specialization,4,"This Specialization provides an introduction to big data analytics for all business professionals, including those with no prior analytics experience. Youâll learn how data analysts describe, predict, and inform business decisions in the specific areas of marketing, human resources, finance, and operations, and youâll develop basic data literacy and an analytic mindset that will help you make strategic decisions based on data. In the final Capstone Project, youâll apply your skills to interpret a real-world data set and make appropriate business strategy recommendations.",Accounting Analytics,https://www.coursera.org/learn/accounting-analytics?specialization=business-analytics
+30,Data Analysis and Presentation Skills: the PwC Approach Specialization,4,"If you are a PwC Employee, gain access to the PwC Specialization and Courses for free using the instructions on the PwC L&D Spark page or simply search ""Coursera"" on PwC Spark.
+
+This Specialization will help you get practical with data analysis, turning business intelligence into real-world outcomes. We'll explore how a combination of better understanding, filtering, and application of data can help you solve problems faster - leading to smarter and more effective decision-making. Youâll learn how to use Microsoft Excel, PowerPoint, and other common data analysis and communication tools, and perhaps most importantly, we'll help you to present data to others in a way that gets them engaged in your story and motivated to act.
+
+What's more, should you enroll in these courses, you will be invited to join PwC's talent network. Those who opt into this talent network will receive information about PwC career opportunities, thought leadership, and happenings in the PwC global network.
+
+Please note: If you'd like to audit the courses in this Specialization, you'll need to enroll in each course separately and then you will see the audit option.
+
+This specialization was created by PricewaterhouseCoopers LLP with an address at 300 Madison Avenue, New York, New York, 10017.",Data-driven Decision Making,https://www.coursera.org/learn/decision-making?specialization=pwc-analytics
+31,Data Analysis and Presentation Skills: the PwC Approach Specialization,4,"If you are a PwC Employee, gain access to the PwC Specialization and Courses for free using the instructions on the PwC L&D Spark page or simply search ""Coursera"" on PwC Spark.
+
+This Specialization will help you get practical with data analysis, turning business intelligence into real-world outcomes. We'll explore how a combination of better understanding, filtering, and application of data can help you solve problems faster - leading to smarter and more effective decision-making. Youâll learn how to use Microsoft Excel, PowerPoint, and other common data analysis and communication tools, and perhaps most importantly, we'll help you to present data to others in a way that gets them engaged in your story and motivated to act.
+
+What's more, should you enroll in these courses, you will be invited to join PwC's talent network. Those who opt into this talent network will receive information about PwC career opportunities, thought leadership, and happenings in the PwC global network.
+
+Please note: If you'd like to audit the courses in this Specialization, you'll need to enroll in each course separately and then you will see the audit option.
+
+This specialization was created by PricewaterhouseCoopers LLP with an address at 300 Madison Avenue, New York, New York, 10017.",Problem Solving with Excel ,https://www.coursera.org/learn/excel-analysis?specialization=pwc-analytics
+32,Data Analysis and Presentation Skills: the PwC Approach Specialization,4,"If you are a PwC Employee, gain access to the PwC Specialization and Courses for free using the instructions on the PwC L&D Spark page or simply search ""Coursera"" on PwC Spark.
+
+This Specialization will help you get practical with data analysis, turning business intelligence into real-world outcomes. We'll explore how a combination of better understanding, filtering, and application of data can help you solve problems faster - leading to smarter and more effective decision-making. Youâll learn how to use Microsoft Excel, PowerPoint, and other common data analysis and communication tools, and perhaps most importantly, we'll help you to present data to others in a way that gets them engaged in your story and motivated to act.
+
+What's more, should you enroll in these courses, you will be invited to join PwC's talent network. Those who opt into this talent network will receive information about PwC career opportunities, thought leadership, and happenings in the PwC global network.
+
+Please note: If you'd like to audit the courses in this Specialization, you'll need to enroll in each course separately and then you will see the audit option.
+
+This specialization was created by PricewaterhouseCoopers LLP with an address at 300 Madison Avenue, New York, New York, 10017.",Data Visualization with Advanced Excel,https://www.coursera.org/learn/advanced-excel?specialization=pwc-analytics
+33,Data Analysis and Presentation Skills: the PwC Approach Specialization,4,"If you are a PwC Employee, gain access to the PwC Specialization and Courses for free using the instructions on the PwC L&D Spark page or simply search ""Coursera"" on PwC Spark.
+
+This Specialization will help you get practical with data analysis, turning business intelligence into real-world outcomes. We'll explore how a combination of better understanding, filtering, and application of data can help you solve problems faster - leading to smarter and more effective decision-making. Youâll learn how to use Microsoft Excel, PowerPoint, and other common data analysis and communication tools, and perhaps most importantly, we'll help you to present data to others in a way that gets them engaged in your story and motivated to act.
+
+What's more, should you enroll in these courses, you will be invited to join PwC's talent network. Those who opt into this talent network will receive information about PwC career opportunities, thought leadership, and happenings in the PwC global network.
+
+Please note: If you'd like to audit the courses in this Specialization, you'll need to enroll in each course separately and then you will see the audit option.
+
+This specialization was created by PricewaterhouseCoopers LLP with an address at 300 Madison Avenue, New York, New York, 10017.",Effective Business Presentations with Powerpoint,https://www.coursera.org/learn/powerpoint-presentations?specialization=pwc-analytics
+34,Data Mining  Specialization,4,"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",Data Visualization,https://www.coursera.org/learn/datavisualization?specialization=data-mining
+35,Data Mining  Specialization,4,"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",Text Retrieval and Search Engines,https://www.coursera.org/learn/text-retrieval?specialization=data-mining
+36,Data Mining  Specialization,4,"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",Text Mining and Analytics,https://www.coursera.org/learn/text-mining?specialization=data-mining
+37,Data Mining  Specialization,4,"The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.Courses 2 - 5 of this Specialization form the lecture component of courses in the online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",Pattern Discovery in Data Mining,https://www.coursera.org/learn/data-patterns?specialization=data-mining
+38,AnÃ¡lisis de Datos para la toma de decisiones Specialization,4,"Este programa cubre el anÃ¡lisis y manejo de grandes cantidades de datos, asÃ­ como el diseÃ±o y desarrollo de modelos que apoyen la toma de decisiones en tu organizaciÃ³n. En el proyecto final, aplicarÃ¡s en una situaciÃ³n real los conceptos, modelos y herramientas aprendidos a lo largo del programa.",Fundamentos del análisis de datos para la toma de decisiones,https://www.coursera.org/learn/analisis-de-datos?specialization=analisis-datos
+39,AnÃ¡lisis de Datos para la toma de decisiones Specialization,4,"Este programa cubre el anÃ¡lisis y manejo de grandes cantidades de datos, asÃ­ como el diseÃ±o y desarrollo de modelos que apoyen la toma de decisiones en tu organizaciÃ³n. En el proyecto final, aplicarÃ¡s en una situaciÃ³n real los conceptos, modelos y herramientas aprendidos a lo largo del programa.",Recolección y exploración de datos,https://www.coursera.org/learn/ordenamiento-datos?specialization=analisis-datos
+40,AnÃ¡lisis de Datos para la toma de decisiones Specialization,4,"Este programa cubre el anÃ¡lisis y manejo de grandes cantidades de datos, asÃ­ como el diseÃ±o y desarrollo de modelos que apoyen la toma de decisiones en tu organizaciÃ³n. En el proyecto final, aplicarÃ¡s en una situaciÃ³n real los conceptos, modelos y herramientas aprendidos a lo largo del programa.",Uso de técnicas estadísticas para el análisis de datos,https://www.coursera.org/learn/datos-tecnicas?specialization=analisis-datos
+41,AnÃ¡lisis de Datos para la toma de decisiones Specialization,4,"Este programa cubre el anÃ¡lisis y manejo de grandes cantidades de datos, asÃ­ como el diseÃ±o y desarrollo de modelos que apoyen la toma de decisiones en tu organizaciÃ³n. En el proyecto final, aplicarÃ¡s en una situaciÃ³n real los conceptos, modelos y herramientas aprendidos a lo largo del programa.",Aplicando el análisis de datos: casos selectos ,https://www.coursera.org/learn/analisis-de-datos-aplicaciones?specialization=analisis-datos
+42,Excel to MySQL: Analytic Techniques for Business Specialization,4,"Formulate data questions, explore and visualize large datasets, and inform strategic decisions.
+
+In this Specialization, youâll learn to frame business challenges as data questions. Youâll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, youâll apply your skills to explore and justify improvements to a real-world business process.
+
+The Capstone Project focuses on optimizing revenues from residential property, and Airbnb, our Capstoneâs official Sponsor, provided input on the project design. Airbnb is the worldâs largest marketplace connecting property-owner hosts with travelers to facilitate short-term rental transactions. The top 10 Capstone completers each year will have the opportunity to present their work directly to senior data scientists at Airbnb live for feedback and discussion.",Business Metrics for Data-Driven Companies,https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
+43,Excel to MySQL: Analytic Techniques for Business Specialization,4,"Formulate data questions, explore and visualize large datasets, and inform strategic decisions.
+
+In this Specialization, youâll learn to frame business challenges as data questions. Youâll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, youâll apply your skills to explore and justify improvements to a real-world business process.
+
+The Capstone Project focuses on optimizing revenues from residential property, and Airbnb, our Capstoneâs official Sponsor, provided input on the project design. Airbnb is the worldâs largest marketplace connecting property-owner hosts with travelers to facilitate short-term rental transactions. The top 10 Capstone completers each year will have the opportunity to present their work directly to senior data scientists at Airbnb live for feedback and discussion.",Mastering Data Analysis in Excel,https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql
+44,Excel to MySQL: Analytic Techniques for Business Specialization,4,"Formulate data questions, explore and visualize large datasets, and inform strategic decisions.
+
+In this Specialization, youâll learn to frame business challenges as data questions. Youâll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, youâll apply your skills to explore and justify improvements to a real-world business process.
+
+The Capstone Project focuses on optimizing revenues from residential property, and Airbnb, our Capstoneâs official Sponsor, provided input on the project design. Airbnb is the worldâs largest marketplace connecting property-owner hosts with travelers to facilitate short-term rental transactions. The top 10 Capstone completers each year will have the opportunity to present their work directly to senior data scientists at Airbnb live for feedback and discussion.",Data Visualization and Communication with Tableau,https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql
+45,Excel to MySQL: Analytic Techniques for Business Specialization,4,"Formulate data questions, explore and visualize large datasets, and inform strategic decisions.
+
+In this Specialization, youâll learn to frame business challenges as data questions. Youâll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, youâll apply your skills to explore and justify improvements to a real-world business process.
+
+The Capstone Project focuses on optimizing revenues from residential property, and Airbnb, our Capstoneâs official Sponsor, provided input on the project design. Airbnb is the worldâs largest marketplace connecting property-owner hosts with travelers to facilitate short-term rental transactions. The top 10 Capstone completers each year will have the opportunity to present their work directly to senior data scientists at Airbnb live for feedback and discussion.",Managing Big Data with MySQL,https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql
+46,Functional Programming in Scala Specialization,4,"Discover how to write elegant code that works the first time it is run.
+
+This Specialization provides a hands-on introduction to functional programming using the widespread programming language, Scala. It begins from the basic building blocks of the functional paradigm, first showing how to use these blocks to solve small problems, before building up to combining these concepts to architect larger functional programs. You'll see how the functional paradigm facilitates parallel and distributed programming, and through a series of hands on examples and programming assignments, you'll learn how to analyze data sets small to large; from parallel programming on multicore architectures, to distributed programming on a cluster using Apache Spark. A final capstone project will allow you to apply the skills you learned by building a large data-intensive application using real-world data.",Functional Programming Principles in Scala,https://www.coursera.org/learn/progfun1?specialization=scala
+47,Functional Programming in Scala Specialization,4,"Discover how to write elegant code that works the first time it is run.
+
+This Specialization provides a hands-on introduction to functional programming using the widespread programming language, Scala. It begins from the basic building blocks of the functional paradigm, first showing how to use these blocks to solve small problems, before building up to combining these concepts to architect larger functional programs. You'll see how the functional paradigm facilitates parallel and distributed programming, and through a series of hands on examples and programming assignments, you'll learn how to analyze data sets small to large; from parallel programming on multicore architectures, to distributed programming on a cluster using Apache Spark. A final capstone project will allow you to apply the skills you learned by building a large data-intensive application using real-world data.",Functional Program Design in Scala,https://www.coursera.org/learn/progfun2?specialization=scala
+48,Functional Programming in Scala Specialization,4,"Discover how to write elegant code that works the first time it is run.
+
+This Specialization provides a hands-on introduction to functional programming using the widespread programming language, Scala. It begins from the basic building blocks of the functional paradigm, first showing how to use these blocks to solve small problems, before building up to combining these concepts to architect larger functional programs. You'll see how the functional paradigm facilitates parallel and distributed programming, and through a series of hands on examples and programming assignments, you'll learn how to analyze data sets small to large; from parallel programming on multicore architectures, to distributed programming on a cluster using Apache Spark. A final capstone project will allow you to apply the skills you learned by building a large data-intensive application using real-world data.",Parallel programming,https://www.coursera.org/learn/parprog1?specialization=scala
+49,Functional Programming in Scala Specialization,4,"Discover how to write elegant code that works the first time it is run.
+
+This Specialization provides a hands-on introduction to functional programming using the widespread programming language, Scala. It begins from the basic building blocks of the functional paradigm, first showing how to use these blocks to solve small problems, before building up to combining these concepts to architect larger functional programs. You'll see how the functional paradigm facilitates parallel and distributed programming, and through a series of hands on examples and programming assignments, you'll learn how to analyze data sets small to large; from parallel programming on multicore architectures, to distributed programming on a cluster using Apache Spark. A final capstone project will allow you to apply the skills you learned by building a large data-intensive application using real-world data.",Big Data Analysis with Scala and Spark,https://www.coursera.org/learn/scala-spark-big-data?specialization=scala
+50,Cloud Computing Specialization,4,"The Cloud Computing Specialization takes you on a tour through cloud computing systems. We start in in the middle layer with Cloud Computing Concepts covering core distributed systems concepts used inside clouds, move to the upper layer of Cloud Applications and finally to the lower layer of Cloud Networking. We conclude with a project that allows you to apply the skills you've learned throughout the courses.
+
+The first four courses in this Specialization form the lecture component of courses in our online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.","Cloud Computing Concepts, Part 1",https://www.coursera.org/learn/cloud-computing?specialization=cloud-computing
+51,Cloud Computing Specialization,4,"The Cloud Computing Specialization takes you on a tour through cloud computing systems. We start in in the middle layer with Cloud Computing Concepts covering core distributed systems concepts used inside clouds, move to the upper layer of Cloud Applications and finally to the lower layer of Cloud Networking. We conclude with a project that allows you to apply the skills you've learned throughout the courses.
+
+The first four courses in this Specialization form the lecture component of courses in our online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.",Cloud Computing Concepts: Part 2,https://www.coursera.org/learn/cloud-computing-2?specialization=cloud-computing
+52,Cloud Computing Specialization,4,"The Cloud Computing Specialization takes you on a tour through cloud computing systems. We start in in the middle layer with Cloud Computing Concepts covering core distributed systems concepts used inside clouds, move to the upper layer of Cloud Applications and finally to the lower layer of Cloud Networking. We conclude with a project that allows you to apply the skills you've learned throughout the courses.
+
+The first four courses in this Specialization form the lecture component of courses in our online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.","Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",https://www.coursera.org/learn/cloud-applications-part1?specialization=cloud-computing
+53,Cloud Computing Specialization,4,"The Cloud Computing Specialization takes you on a tour through cloud computing systems. We start in in the middle layer with Cloud Computing Concepts covering core distributed systems concepts used inside clouds, move to the upper layer of Cloud Applications and finally to the lower layer of Cloud Networking. We conclude with a project that allows you to apply the skills you've learned throughout the courses.
+
+The first four courses in this Specialization form the lecture component of courses in our online Master of Computer Science Degree in Data Science. You can apply to the degree program either before or after you begin the Specialization.","Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",https://www.coursera.org/learn/cloud-applications-part2?specialization=cloud-computing
+54,Data Engineering with Google Cloud Professional Certificate,4,"This program provides the skills you need to advance your career in data engineering and recommends training to support your preparation for the industry-recognized Google Cloud Professional Data Engineer certification. Through a combination of presentations, demos, and labs, you will enable data-driven decision making by collecting, transforming, and publishing data; and you'll gain real world experience through a number of hands-on Qwiklabs projects.
+
+You'll also have the opportunity to practice key job skills, including designing, building, and running data processing systems; and operationalizing machine-learning models.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers.
+
+If you would like to become Google Cloud certified and demonstrate your proficiency to design and build data processing systems and operationalize machine learning models on Google Cloud Platform, you will need to register for, and pass the official Google Cloud certification exam. You can find more details on how to register and additional resources to support your preparation at cloud.google.com/certifications.",Google Cloud Platform Big Data and Machine Learning Fundamentals,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-engineering
+55,Data Engineering with Google Cloud Professional Certificate,4,"This program provides the skills you need to advance your career in data engineering and recommends training to support your preparation for the industry-recognized Google Cloud Professional Data Engineer certification. Through a combination of presentations, demos, and labs, you will enable data-driven decision making by collecting, transforming, and publishing data; and you'll gain real world experience through a number of hands-on Qwiklabs projects.
+
+You'll also have the opportunity to practice key job skills, including designing, building, and running data processing systems; and operationalizing machine-learning models.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers.
+
+If you would like to become Google Cloud certified and demonstrate your proficiency to design and build data processing systems and operationalize machine learning models on Google Cloud Platform, you will need to register for, and pass the official Google Cloud certification exam. You can find more details on how to register and additional resources to support your preparation at cloud.google.com/certifications.", Modernizing Data Lakes and Data Warehouses with GCP,https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering
+56,Data Engineering with Google Cloud Professional Certificate,4,"This program provides the skills you need to advance your career in data engineering and recommends training to support your preparation for the industry-recognized Google Cloud Professional Data Engineer certification. Through a combination of presentations, demos, and labs, you will enable data-driven decision making by collecting, transforming, and publishing data; and you'll gain real world experience through a number of hands-on Qwiklabs projects.
+
+You'll also have the opportunity to practice key job skills, including designing, building, and running data processing systems; and operationalizing machine-learning models.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers.
+
+If you would like to become Google Cloud certified and demonstrate your proficiency to design and build data processing systems and operationalize machine learning models on Google Cloud Platform, you will need to register for, and pass the official Google Cloud certification exam. You can find more details on how to register and additional resources to support your preparation at cloud.google.com/certifications.",Building Batch Data Pipelines on GCP,https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-engineering
+57,Data Engineering with Google Cloud Professional Certificate,4,"This program provides the skills you need to advance your career in data engineering and recommends training to support your preparation for the industry-recognized Google Cloud Professional Data Engineer certification. Through a combination of presentations, demos, and labs, you will enable data-driven decision making by collecting, transforming, and publishing data; and you'll gain real world experience through a number of hands-on Qwiklabs projects.
+
+You'll also have the opportunity to practice key job skills, including designing, building, and running data processing systems; and operationalizing machine-learning models.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers.
+
+If you would like to become Google Cloud certified and demonstrate your proficiency to design and build data processing systems and operationalize machine learning models on Google Cloud Platform, you will need to register for, and pass the official Google Cloud certification exam. You can find more details on how to register and additional resources to support your preparation at cloud.google.com/certifications.",Building Resilient Streaming Analytics Systems on GCP,https://www.coursera.org/learn/streaming-analytics-systems-gcp?specialization=gcp-data-engineering
+58,Emerging Technologies: From Smartphones to IoT to Big Data Specialization,4,"This Specialization is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The 4 courses cover details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks. The course contents are for expert level research, design, development, industrial strategic planning, business, administration, and management.",Big Data Emerging Technologies,https://www.coursera.org/learn/big-data-emerging-technologies
+59,Emerging Technologies: From Smartphones to IoT to Big Data Specialization,4,"This Specialization is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The 4 courses cover details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks. The course contents are for expert level research, design, development, industrial strategic planning, business, administration, and management.",Smart Device & Mobile Emerging Technologies,https://www.coursera.org/learn/smart-device-mobile-emerging-technologies
+60,Emerging Technologies: From Smartphones to IoT to Big Data Specialization,4,"This Specialization is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The 4 courses cover details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks. The course contents are for expert level research, design, development, industrial strategic planning, business, administration, and management.",IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies,https://www.coursera.org/learn/iot-wireless-cloud-computing
+61,Emerging Technologies: From Smartphones to IoT to Big Data Specialization,4,"This Specialization is intended for researchers and business experts seeking state-of-the-art knowledge in advanced science and technology. The 4 courses cover details on Big Data (Hadoop, Spark, Storm), Smartphones, Smart Watches, Android, iOS, CPU/GPU/SoC, Mobile Communications (1G to 5G), Sensors, IoT, Wi-Fi, Bluetooth, LP-WAN, Cloud Computing, AR (Augmented Reality), Skype, YouTube, H.264/MPEG-4 AVC, MPEG-DASH, CDN, and Video Streaming Services. The Specialization includes projects on Big Data using IBM SPSS Statistics, AR applications, Cloud Computing using AWS (Amazon Web Service) EC2 (Elastic Compute Cloud), and Smartphone applications to analyze mobile communication, Wi-Fi, and Bluetooth networks. The course contents are for expert level research, design, development, industrial strategic planning, business, administration, and management.",AR (Augmented Reality) & Video Streaming Services Emerging Technologies,https://www.coursera.org/learn/ar-technologies-video-streaming
+62,Machine Learning with TensorFlow on Google Cloud Platform Specialization,4,"What is machine learning, and what kinds of problems can it solve? What are the five phases of converting a candidate use case to be driven by machine learning, and why is it important that the phases not be skipped? Why are neural networks so popular now? How can you set up a supervised learning problem and find a good, generalizable solution using gradient descent and a thoughtful way of creating datasets? Learn how to write distributed machine learning models that scale in Tensorflow, scale out the training of those models. and offer high-performance predictions. Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem. Finally, learn how to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. You will experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <",How Google does Machine Learning,https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp
+63,Machine Learning with TensorFlow on Google Cloud Platform Specialization,4,"What is machine learning, and what kinds of problems can it solve? What are the five phases of converting a candidate use case to be driven by machine learning, and why is it important that the phases not be skipped? Why are neural networks so popular now? How can you set up a supervised learning problem and find a good, generalizable solution using gradient descent and a thoughtful way of creating datasets? Learn how to write distributed machine learning models that scale in Tensorflow, scale out the training of those models. and offer high-performance predictions. Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem. Finally, learn how to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. You will experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <",Launching into Machine Learning,https://www.coursera.org/learn/launching-machine-learning?specialization=machine-learning-tensorflow-gcp
+64,Machine Learning with TensorFlow on Google Cloud Platform Specialization,4,"What is machine learning, and what kinds of problems can it solve? What are the five phases of converting a candidate use case to be driven by machine learning, and why is it important that the phases not be skipped? Why are neural networks so popular now? How can you set up a supervised learning problem and find a good, generalizable solution using gradient descent and a thoughtful way of creating datasets? Learn how to write distributed machine learning models that scale in Tensorflow, scale out the training of those models. and offer high-performance predictions. Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem. Finally, learn how to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. You will experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <",Intro to TensorFlow,https://www.coursera.org/learn/intro-tensorflow?specialization=machine-learning-tensorflow-gcp
+65,Machine Learning with TensorFlow on Google Cloud Platform Specialization,4,"What is machine learning, and what kinds of problems can it solve? What are the five phases of converting a candidate use case to be driven by machine learning, and why is it important that the phases not be skipped? Why are neural networks so popular now? How can you set up a supervised learning problem and find a good, generalizable solution using gradient descent and a thoughtful way of creating datasets? Learn how to write distributed machine learning models that scale in Tensorflow, scale out the training of those models. and offer high-performance predictions. Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem. Finally, learn how to incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. You will experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <",Feature Engineering,https://www.coursera.org/learn/feature-engineering?specialization=machine-learning-tensorflow-gcp
+66,From Data to Insights with Google Cloud Platform Specialization,4,"Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course!This four-course accelerated online specialization teaches course participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The courses feature interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The courses also cover data loading, querying, schema modeling, optimizing performance, query pricing, and data visualization.
+
+This specialization is intended for the following participants:
+
+â Data Analysts, Business Analysts, Business Intelligence professionals
+
+â Cloud Data Engineers who will be partnering with Data Analysts to build scalable data solutions on Google Cloud Platform
+
+To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Exploring ​and ​Preparing ​your ​Data with BigQuery,https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery
+67,From Data to Insights with Google Cloud Platform Specialization,4,"Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course!This four-course accelerated online specialization teaches course participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The courses feature interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The courses also cover data loading, querying, schema modeling, optimizing performance, query pricing, and data visualization.
+
+This specialization is intended for the following participants:
+
+â Data Analysts, Business Analysts, Business Intelligence professionals
+
+â Cloud Data Engineers who will be partnering with Data Analysts to build scalable data solutions on Google Cloud Platform
+
+To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Creating New BigQuery Datasets and Visualizing Insights,https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights
+68,From Data to Insights with Google Cloud Platform Specialization,4,"Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course!This four-course accelerated online specialization teaches course participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The courses feature interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The courses also cover data loading, querying, schema modeling, optimizing performance, query pricing, and data visualization.
+
+This specialization is intended for the following participants:
+
+â Data Analysts, Business Analysts, Business Intelligence professionals
+
+â Cloud Data Engineers who will be partnering with Data Analysts to build scalable data solutions on Google Cloud Platform
+
+To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Achieving Advanced Insights with BigQuery,https://www.coursera.org/learn/gcp-advanced-insights-bigquery
+69,From Data to Insights with Google Cloud Platform Specialization,4,"Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course!This four-course accelerated online specialization teaches course participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The courses feature interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The courses also cover data loading, querying, schema modeling, optimizing performance, query pricing, and data visualization.
+
+This specialization is intended for the following participants:
+
+â Data Analysts, Business Analysts, Business Intelligence professionals
+
+â Cloud Data Engineers who will be partnering with Data Analysts to build scalable data solutions on Google Cloud Platform
+
+To get the most out of this specialization, we recommend participants have some proficiency with ANSI SQL.
+
+>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Applying Machine Learning to your Data with GCP,https://www.coursera.org/learn/data-insights-gcp-apply-ml
+70,Python Data Products for Predictive Analytics Specialization,4,"Python data products are powering the AI revolution. Top companies like Google, Facebook, and Netflix use predictive analytics to improve the products and services we use every day. Take your Python skills to the next level and learn to make accurate predictions with data-driven systems and deploy machine learning models with this four-course Specialization from UC San Diego.This Specialization is for learners who are proficient with the basics of Python. Youâll start by creating your first data strategy. Youâll also develop statistical models, devise data-driven workflows, and learn to make meaningful predictions for a wide-range of business and research purposes. Finally, youâll use design thinking methodology and data science techniques to extract insights from a wide range of data sources. This is your chance to master one of the technology industryâs most in-demand skills.
+
+Python Data Products for Predictive Analytics is taught by Professor Ilkay Altintas, Ph.D. and Julian McAuley. Dr. Alintas is a prominent figure in the data science community and the designer of the highly-popular Big Data Specialization on Coursera. She has helped educate hundreds of thousands of learners on how to unlock value from massive datasets.",Basic Data Processing and Visualization,https://www.coursera.org/learn/basic-data-processing-visualization-python
+71,Python Data Products for Predictive Analytics Specialization,4,"Python data products are powering the AI revolution. Top companies like Google, Facebook, and Netflix use predictive analytics to improve the products and services we use every day. Take your Python skills to the next level and learn to make accurate predictions with data-driven systems and deploy machine learning models with this four-course Specialization from UC San Diego.This Specialization is for learners who are proficient with the basics of Python. Youâll start by creating your first data strategy. Youâll also develop statistical models, devise data-driven workflows, and learn to make meaningful predictions for a wide-range of business and research purposes. Finally, youâll use design thinking methodology and data science techniques to extract insights from a wide range of data sources. This is your chance to master one of the technology industryâs most in-demand skills.
+
+Python Data Products for Predictive Analytics is taught by Professor Ilkay Altintas, Ph.D. and Julian McAuley. Dr. Alintas is a prominent figure in the data science community and the designer of the highly-popular Big Data Specialization on Coursera. She has helped educate hundreds of thousands of learners on how to unlock value from massive datasets.",Design Thinking and Predictive Analytics for Data Products,https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products
+72,Python Data Products for Predictive Analytics Specialization,4,"Python data products are powering the AI revolution. Top companies like Google, Facebook, and Netflix use predictive analytics to improve the products and services we use every day. Take your Python skills to the next level and learn to make accurate predictions with data-driven systems and deploy machine learning models with this four-course Specialization from UC San Diego.This Specialization is for learners who are proficient with the basics of Python. Youâll start by creating your first data strategy. Youâll also develop statistical models, devise data-driven workflows, and learn to make meaningful predictions for a wide-range of business and research purposes. Finally, youâll use design thinking methodology and data science techniques to extract insights from a wide range of data sources. This is your chance to master one of the technology industryâs most in-demand skills.
+
+Python Data Products for Predictive Analytics is taught by Professor Ilkay Altintas, Ph.D. and Julian McAuley. Dr. Alintas is a prominent figure in the data science community and the designer of the highly-popular Big Data Specialization on Coursera. She has helped educate hundreds of thousands of learners on how to unlock value from massive datasets.",Meaningful Predictive Modeling,https://www.coursera.org/learn/meaningful-predictive-modeling
+73,Python Data Products for Predictive Analytics Specialization,4,"Python data products are powering the AI revolution. Top companies like Google, Facebook, and Netflix use predictive analytics to improve the products and services we use every day. Take your Python skills to the next level and learn to make accurate predictions with data-driven systems and deploy machine learning models with this four-course Specialization from UC San Diego.This Specialization is for learners who are proficient with the basics of Python. Youâll start by creating your first data strategy. Youâll also develop statistical models, devise data-driven workflows, and learn to make meaningful predictions for a wide-range of business and research purposes. Finally, youâll use design thinking methodology and data science techniques to extract insights from a wide range of data sources. This is your chance to master one of the technology industryâs most in-demand skills.
+
+Python Data Products for Predictive Analytics is taught by Professor Ilkay Altintas, Ph.D. and Julian McAuley. Dr. Alintas is a prominent figure in the data science community and the designer of the highly-popular Big Data Specialization on Coursera. She has helped educate hundreds of thousands of learners on how to unlock value from massive datasets.",Deploying Machine Learning Models,https://www.coursera.org/learn/deploying-machine-learning-models
+74,Architecting with Google Kubernetes Engine Specialization,4,"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",Google Cloud Platform Fundamentals: Core Infrastructure,https://www.coursera.org/learn/gcp-fundamentals
+75,Architecting with Google Kubernetes Engine Specialization,4,"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",Architecting with Google Kubernetes Engine: Foundations,https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke
+76,Architecting with Google Kubernetes Engine Specialization,4,"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",Architecting with Google Kubernetes Engine: Workloads,https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke
+77,Architecting with Google Kubernetes Engine Specialization,4,"The Architecting with Google Kubernetes Engine specialization will teach you how to implement solutions using Google Kubernetes Engine, or GKE, including building, scheduling, load balancing, and monitoring workloads, as well as providing for discovery of services, managing role-based access control and security, and providing persistent storage to these applications.",Architecting with Google Kubernetes Engine: Production,https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production
+78,Security in Google Cloud Platform Specialization,3,"Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Google Cloud Platform Fundamentals: Core Infrastructure,https://www.coursera.org/learn/gcp-fundamentals
+79,Security in Google Cloud Platform Specialization,3,"Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Managing Security in Google Cloud Platform,https://www.coursera.org/learn/managing-security-in-google-cloud-platform
+80,Security in Google Cloud Platform Specialization,3,"Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.>>> By enrolling in this specialization you agree to the Qwiklabs Terms of Service as set out in the FAQ and located at: https://qwiklabs.com/terms_of_service <<<",Mitigating Security Vulnerabilities on Google Cloud Platform,https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp
+81,Networking in Google Cloud Platform Specialization,3,"This specialization gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN. The specialization will also cover common network design patterns and automated deployment using Deployment Manager.
+
+This class is intended for the following participants:
+
+â Network Engineers and Admins who are either using Google Cloud Platform or are planning to do so
+
+â Individuals who want to be exposed to software-defined networking solutions in the cloud.
+
+To get the most out of this course, participants should have:
+
+*Prior understanding of the OSI 7-layer model
+
+*Prior understanding of IPv4 addressing
+
+*Prior experience with managing IPv4 routes",Google Cloud Platform Fundamentals: Core Infrastructure,https://www.coursera.org/learn/gcp-fundamentals
+82,Networking in Google Cloud Platform Specialization,3,"This specialization gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN. The specialization will also cover common network design patterns and automated deployment using Deployment Manager.
+
+This class is intended for the following participants:
+
+â Network Engineers and Admins who are either using Google Cloud Platform or are planning to do so
+
+â Individuals who want to be exposed to software-defined networking solutions in the cloud.
+
+To get the most out of this course, participants should have:
+
+*Prior understanding of the OSI 7-layer model
+
+*Prior understanding of IPv4 addressing
+
+*Prior experience with managing IPv4 routes",Networking in GCP: Defining and Implementing Networks,https://www.coursera.org/learn/networking-gcp-defining-implementing-networks
+83,Networking in Google Cloud Platform Specialization,3,"This specialization gives participants broad study of core infrastructure and networking options on Google Cloud Platform. Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets, firewalls; interconnection among networks; load balancing; Cloud DNS; Cloud CDN. The specialization will also cover common network design patterns and automated deployment using Deployment Manager.
+
+This class is intended for the following participants:
+
+â Network Engineers and Admins who are either using Google Cloud Platform or are planning to do so
+
+â Individuals who want to be exposed to software-defined networking solutions in the cloud.
+
+To get the most out of this course, participants should have:
+
+*Prior understanding of the OSI 7-layer model
+
+*Prior understanding of IPv4 addressing
+
+*Prior experience with managing IPv4 routes",Networking in GCP: Hybrid Connectivity and Network Management,https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management
+84,Data Warehousing for Business Intelligence Specialization,4,"Evaluate business needs, design a data warehouse, and integrate and visualize data using dashboards and visual analytics.
+
+This Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields. Youâll learn the basics of structured data modeling, gain practical SQL coding experience, and develop an in-depth understanding of data warehouse design and data manipulation. Youâll have the opportunity to work with large data sets in a data warehouse environment to create dashboards and Visual Analytics. You will use of MicroStrategy, a leading BI tool, OLAP (online analytical processing) and Visual Insights capabilities to create dashboards and Visual Analytics. In the final Capstone Project, youâll apply your skills to build a small, basic data warehouse, populate it with data, and create dashboards and other visualizations to analyze and communicate the data to a broad audience.",Database Management Essentials,https://www.coursera.org/learn/database-management?specialization=data-warehousing
+85,Data Warehousing for Business Intelligence Specialization,4,"Evaluate business needs, design a data warehouse, and integrate and visualize data using dashboards and visual analytics.
+
+This Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields. Youâll learn the basics of structured data modeling, gain practical SQL coding experience, and develop an in-depth understanding of data warehouse design and data manipulation. Youâll have the opportunity to work with large data sets in a data warehouse environment to create dashboards and Visual Analytics. You will use of MicroStrategy, a leading BI tool, OLAP (online analytical processing) and Visual Insights capabilities to create dashboards and Visual Analytics. In the final Capstone Project, youâll apply your skills to build a small, basic data warehouse, populate it with data, and create dashboards and other visualizations to analyze and communicate the data to a broad audience.","Data Warehouse Concepts, Design, and Data Integration",https://www.coursera.org/learn/dwdesign?specialization=data-warehousing
+86,Data Warehousing for Business Intelligence Specialization,4,"Evaluate business needs, design a data warehouse, and integrate and visualize data using dashboards and visual analytics.
+
+This Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields. Youâll learn the basics of structured data modeling, gain practical SQL coding experience, and develop an in-depth understanding of data warehouse design and data manipulation. Youâll have the opportunity to work with large data sets in a data warehouse environment to create dashboards and Visual Analytics. You will use of MicroStrategy, a leading BI tool, OLAP (online analytical processing) and Visual Insights capabilities to create dashboards and Visual Analytics. In the final Capstone Project, youâll apply your skills to build a small, basic data warehouse, populate it with data, and create dashboards and other visualizations to analyze and communicate the data to a broad audience.",Relational Database Support for Data Warehouses,https://www.coursera.org/learn/dwrelational?specialization=data-warehousing
+87,Data Warehousing for Business Intelligence Specialization,4,"Evaluate business needs, design a data warehouse, and integrate and visualize data using dashboards and visual analytics.
+
+This Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields. Youâll learn the basics of structured data modeling, gain practical SQL coding experience, and develop an in-depth understanding of data warehouse design and data manipulation. Youâll have the opportunity to work with large data sets in a data warehouse environment to create dashboards and Visual Analytics. You will use of MicroStrategy, a leading BI tool, OLAP (online analytical processing) and Visual Insights capabilities to create dashboards and Visual Analytics. In the final Capstone Project, youâll apply your skills to build a small, basic data warehouse, populate it with data, and create dashboards and other visualizations to analyze and communicate the data to a broad audience.","Business Intelligence Concepts, Tools, and Applications",https://www.coursera.org/learn/business-intelligence-tools?specialization=data-warehousing
+88,Digital Manufacturing & Design Technology  Specialization,4,"Whether youâre a high school graduate exploring manufacturing careers, or an operations manager hungry for an understanding of the newest manufacturing technologies, this specialization will provide a foundation in how digital advances are changing the landscape and capabilities of factories. Nine courses â developed with input from the manufacturing industry â touch on Industry 4.0 and its components, including digital manufacturing and design practices, the concept of the digital thread, the Internet of Things and Big Data. To learn more about the Digital Manufacturing and Design Technology specialization, please watch the overview video by copying and pasting the following link into your web browser: https://youtu.be/wETK1O9c-CA",Digital Manufacturing & Design,https://www.coursera.org/learn/digital-manufacturing-design?specialization=digital-manufacturing-design-technology
+89,Digital Manufacturing & Design Technology  Specialization,4,"Whether youâre a high school graduate exploring manufacturing careers, or an operations manager hungry for an understanding of the newest manufacturing technologies, this specialization will provide a foundation in how digital advances are changing the landscape and capabilities of factories. Nine courses â developed with input from the manufacturing industry â touch on Industry 4.0 and its components, including digital manufacturing and design practices, the concept of the digital thread, the Internet of Things and Big Data. To learn more about the Digital Manufacturing and Design Technology specialization, please watch the overview video by copying and pasting the following link into your web browser: https://youtu.be/wETK1O9c-CA",Digital Thread: Components,https://www.coursera.org/learn/digital-thread-components?specialization=digital-manufacturing-design-technology
+90,Digital Manufacturing & Design Technology  Specialization,4,"Whether youâre a high school graduate exploring manufacturing careers, or an operations manager hungry for an understanding of the newest manufacturing technologies, this specialization will provide a foundation in how digital advances are changing the landscape and capabilities of factories. Nine courses â developed with input from the manufacturing industry â touch on Industry 4.0 and its components, including digital manufacturing and design practices, the concept of the digital thread, the Internet of Things and Big Data. To learn more about the Digital Manufacturing and Design Technology specialization, please watch the overview video by copying and pasting the following link into your web browser: https://youtu.be/wETK1O9c-CA",Digital Thread: Implementation,https://www.coursera.org/learn/digital-thread-implementation?specialization=digital-manufacturing-design-technology
+91,Digital Manufacturing & Design Technology  Specialization,4,"Whether youâre a high school graduate exploring manufacturing careers, or an operations manager hungry for an understanding of the newest manufacturing technologies, this specialization will provide a foundation in how digital advances are changing the landscape and capabilities of factories. Nine courses â developed with input from the manufacturing industry â touch on Industry 4.0 and its components, including digital manufacturing and design practices, the concept of the digital thread, the Internet of Things and Big Data. To learn more about the Digital Manufacturing and Design Technology specialization, please watch the overview video by copying and pasting the following link into your web browser: https://youtu.be/wETK1O9c-CA",Advanced Manufacturing Process Analysis,https://www.coursera.org/learn/advanced-manufacturing-process-analysis?specialization=digital-manufacturing-design-technology
+92,Computational Social Science Specialization,4,"For more information please view the Computational Social Science Trailer
+
+Digital technology has not only revolutionized society, but also the way we can study it. Currently, this is taken advantage of by the most valuable companies in Silicon Valley, the most powerful governmental agencies, and the most influential social movements. What they have in common is that they use computational tools to understand, and ultimately influence human behavior and social dynamics.
+
+An increasing part of human interaction leaves a massive digital footprint behind. Studying it allows us to gain unprecedented insights into what society is and how it works, including its intricate social networks that had long been obscure. Computational power allows us to detect hidden patterns through analytical tools like machine learning and to natural language processing. Finally, computer simulations enable us to explore hypothetical situations that may not even exist in reality, but that we would like to exist: a better world.
+
+This specialization serves as a multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tools. This specialization gives you easy access to some of the exciting new possibilities of how to study society and human behavior. It is the first online specialization collectively taught by Professors from all 10 University of California campuses.",Computational Social Science Methods,https://www.coursera.org/learn/computational-social-science-methods?specialization=computational-social-science-ucdavis
+93,Computational Social Science Specialization,4,"For more information please view the Computational Social Science Trailer
+
+Digital technology has not only revolutionized society, but also the way we can study it. Currently, this is taken advantage of by the most valuable companies in Silicon Valley, the most powerful governmental agencies, and the most influential social movements. What they have in common is that they use computational tools to understand, and ultimately influence human behavior and social dynamics.
+
+An increasing part of human interaction leaves a massive digital footprint behind. Studying it allows us to gain unprecedented insights into what society is and how it works, including its intricate social networks that had long been obscure. Computational power allows us to detect hidden patterns through analytical tools like machine learning and to natural language processing. Finally, computer simulations enable us to explore hypothetical situations that may not even exist in reality, but that we would like to exist: a better world.
+
+This specialization serves as a multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tools. This specialization gives you easy access to some of the exciting new possibilities of how to study society and human behavior. It is the first online specialization collectively taught by Professors from all 10 University of California campuses.","Big Data, Artificial Intelligence, and Ethics",https://www.coursera.org/learn/big-data-ai-ethics?specialization=computational-social-science-ucdavis
+94,Computational Social Science Specialization,4,"For more information please view the Computational Social Science Trailer
+
+Digital technology has not only revolutionized society, but also the way we can study it. Currently, this is taken advantage of by the most valuable companies in Silicon Valley, the most powerful governmental agencies, and the most influential social movements. What they have in common is that they use computational tools to understand, and ultimately influence human behavior and social dynamics.
+
+An increasing part of human interaction leaves a massive digital footprint behind. Studying it allows us to gain unprecedented insights into what society is and how it works, including its intricate social networks that had long been obscure. Computational power allows us to detect hidden patterns through analytical tools like machine learning and to natural language processing. Finally, computer simulations enable us to explore hypothetical situations that may not even exist in reality, but that we would like to exist: a better world.
+
+This specialization serves as a multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tools. This specialization gives you easy access to some of the exciting new possibilities of how to study society and human behavior. It is the first online specialization collectively taught by Professors from all 10 University of California campuses.",Social Network Analysis,https://www.coursera.org/learn/social-network-analysis?specialization=computational-social-science-ucdavis
+95,Computational Social Science Specialization,4,"For more information please view the Computational Social Science Trailer
+
+Digital technology has not only revolutionized society, but also the way we can study it. Currently, this is taken advantage of by the most valuable companies in Silicon Valley, the most powerful governmental agencies, and the most influential social movements. What they have in common is that they use computational tools to understand, and ultimately influence human behavior and social dynamics.
+
+An increasing part of human interaction leaves a massive digital footprint behind. Studying it allows us to gain unprecedented insights into what society is and how it works, including its intricate social networks that had long been obscure. Computational power allows us to detect hidden patterns through analytical tools like machine learning and to natural language processing. Finally, computer simulations enable us to explore hypothetical situations that may not even exist in reality, but that we would like to exist: a better world.
+
+This specialization serves as a multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tools. This specialization gives you easy access to some of the exciting new possibilities of how to study society and human behavior. It is the first online specialization collectively taught by Professors from all 10 University of California campuses.",Computer Simulations,https://www.coursera.org/learn/computer-simulations?specialization=computational-social-science-ucdavis
+96,Survey Data Collection and Analytics  Specialization,4,"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, youâll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.Faculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S. to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs.",Framework for Data Collection and Analysis,https://www.coursera.org/learn/data-collection-framework?specialization=data-collection
+97,Survey Data Collection and Analytics  Specialization,4,"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, youâll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.Faculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S. to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs.","Data Collection: Online, Telephone and Face-to-face",https://www.coursera.org/learn/data-collection-methods?specialization=data-collection
+98,Survey Data Collection and Analytics  Specialization,4,"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, youâll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.Faculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S. to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs.",Questionnaire Design for Social Surveys,https://www.coursera.org/learn/questionnaire-design?specialization=data-collection
+99,Survey Data Collection and Analytics  Specialization,4,"This specialization covers the fundamentals of surveys as used in market research, evaluation research, social science and political research, official government statistics, and many other topic domains. In six courses, you will learn the basics of questionnaire design, data collection methods, sampling design, dealing with missing values, making estimates, combining data from different sources, and the analysis of survey data. In the final Capstone Project, youâll apply the skills learned throughout the specialization by analyzing and comparing multiple data sources.Faculty for this specialisation comes from the Michigan Program in Survey Methodology and the Joint Program in Survey Methodology, a collaboration between the University of Maryland, the University of Michigan, and the data collection firm Westat, founded by the National Science Foundation and the Interagency Consortium of Statistical Policy in the U.S. to educate the next generation of survey researchers, survey statisticians, and survey methodologists. In addition to this specialization we offer short courses, a summer school, certificates, master degrees as well as PhD programs.","Sampling People, Networks and Records",https://www.coursera.org/learn/sampling-methods?specialization=data-collection
+100,Foundations of Marketing Analytics Specialization,4,"In this specialization you will learn how to:â¢ Find, extract, organize and describe data to support business decisions
+
+â¢ Identify, quantify and interpret relationships between variables
+
+â¢ Derive customer insights from your data
+
+â¢ Develop spreadsheet models to analyze data, evaluate risk and optimize business decisions
+
+â¢ Present and justify a course of action to management
+
+The capstone project will give you an opportunity to apply what has been covered in the specialization to solve a marketing analytics problem.",Meaningful Marketing Insights,https://www.coursera.org/learn/meaningful-marketing-insights?specialization=marketing-analytics
+101,Foundations of Marketing Analytics Specialization,4,"In this specialization you will learn how to:â¢ Find, extract, organize and describe data to support business decisions
+
+â¢ Identify, quantify and interpret relationships between variables
+
+â¢ Derive customer insights from your data
+
+â¢ Develop spreadsheet models to analyze data, evaluate risk and optimize business decisions
+
+â¢ Present and justify a course of action to management
+
+The capstone project will give you an opportunity to apply what has been covered in the specialization to solve a marketing analytics problem.",Managing Uncertainty in Marketing Analytics,https://www.coursera.org/learn/uncertainty-marketing-decisions?specialization=marketing-analytics
+102,Foundations of Marketing Analytics Specialization,4,"In this specialization you will learn how to:â¢ Find, extract, organize and describe data to support business decisions
+
+â¢ Identify, quantify and interpret relationships between variables
+
+â¢ Derive customer insights from your data
+
+â¢ Develop spreadsheet models to analyze data, evaluate risk and optimize business decisions
+
+â¢ Present and justify a course of action to management
+
+The capstone project will give you an opportunity to apply what has been covered in the specialization to solve a marketing analytics problem.",Forecasting Models for Marketing Decisions,https://www.coursera.org/learn/forecasting-models-marketing-decisions?specialization=marketing-analytics
+103,Foundations of Marketing Analytics Specialization,4,"In this specialization you will learn how to:â¢ Find, extract, organize and describe data to support business decisions
+
+â¢ Identify, quantify and interpret relationships between variables
+
+â¢ Derive customer insights from your data
+
+â¢ Develop spreadsheet models to analyze data, evaluate risk and optimize business decisions
+
+â¢ Present and justify a course of action to management
+
+The capstone project will give you an opportunity to apply what has been covered in the specialization to solve a marketing analytics problem.",Survey analysis to Gain Marketing Insights,https://www.coursera.org/learn/survey-analysis-marketing-insights?specialization=marketing-analytics
+104,Data Science at Scale Specialization,4,"Learn scalable data management, evaluate big data technologies, and design effective visualizations.This Specialization covers intermediate topics in data science. You will gain hands-on experience with scalable SQL and NoSQL data management solutions, data mining algorithms, and practical statistical and machine learning concepts. You will also learn to visualize data and communicate results, and youâll explore legal and ethical issues that arise in working with big data. In the final Capstone Project, developed in partnership with the digital internship platform Coursolve, youâll apply your new skills to a real-world data science project.",Data Manipulation at Scale: Systems and Algorithms,https://www.coursera.org/learn/data-manipulation
+105,Data Science at Scale Specialization,4,"Learn scalable data management, evaluate big data technologies, and design effective visualizations.This Specialization covers intermediate topics in data science. You will gain hands-on experience with scalable SQL and NoSQL data management solutions, data mining algorithms, and practical statistical and machine learning concepts. You will also learn to visualize data and communicate results, and youâll explore legal and ethical issues that arise in working with big data. In the final Capstone Project, developed in partnership with the digital internship platform Coursolve, youâll apply your new skills to a real-world data science project.",Practical Predictive Analytics: Models and Methods,https://www.coursera.org/learn/predictive-analytics
+106,Data Science at Scale Specialization,4,"Learn scalable data management, evaluate big data technologies, and design effective visualizations.This Specialization covers intermediate topics in data science. You will gain hands-on experience with scalable SQL and NoSQL data management solutions, data mining algorithms, and practical statistical and machine learning concepts. You will also learn to visualize data and communicate results, and youâll explore legal and ethical issues that arise in working with big data. In the final Capstone Project, developed in partnership with the digital internship platform Coursolve, youâll apply your new skills to a real-world data science project.",Communicating Data Science Results,https://www.coursera.org/learn/data-results
+107,Data Science at Scale Specialization,4,"Learn scalable data management, evaluate big data technologies, and design effective visualizations.This Specialization covers intermediate topics in data science. You will gain hands-on experience with scalable SQL and NoSQL data management solutions, data mining algorithms, and practical statistical and machine learning concepts. You will also learn to visualize data and communicate results, and youâll explore legal and ethical issues that arise in working with big data. In the final Capstone Project, developed in partnership with the digital internship platform Coursolve, youâll apply your new skills to a real-world data science project.",Data Science at Scale - Capstone Project,https://www.coursera.org/learn/datasci-capstone
+108,Data Engineering on Google Cloud Platform æ¥æ¬èªç Specialization,4,"ãã® 5 é±éã®ãªã³ã©ã¤ã³éç¿å°éè¬åº§ã¯ãGoogle Cloud Platform ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ããæ¹æ³ãå­¦ã¶ããã®å®è·µçãªå¥éã³ã¼ã¹ã§ããè¬ç¾©ããã¢ããã³ãºãªã³ã©ããéãã¦ããã¼ã¿å¦çã·ã¹ãã ã®è¨­è¨ãã¨ã³ããã¼ã¨ã³ãã®ãã¼ã¿ ãã¤ãã©ã¤ã³ã®æ§ç¯ããã¼ã¿ã®åæãæ©æ¢°å­¦ç¿ã®å®æ½æ¹æ³ãå­¦ã³ã¾ãããã®ã³ã¼ã¹ã§ã¯ãæ§é åãéæ§é åãã¹ããªã¼ãã³ã°ã®åç¨®ãã¼ã¿ãæ±ãã¾ãã
+
+ãã®ã³ã¼ã¹ã§ã¯ãæ¬¡ã®ã¹ã­ã«ã«ã¤ãã¦å­¦ç¿ãã¾ãã
+
+â¢ Google Cloud Platform ä¸ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ãã
+
+â¢ éæ§é åãã¼ã¿ã Cloud Dataproc ä¸ã§ Spark ã¨ ML ã® API ãä½¿ã£ã¦æ´»ç¨ãã
+
+â¢ ãããããã³ã¹ããªã¼ãã³ã°ã®ãã¼ã¿ãå¦çããããã«èªåã¹ã±ã¼ãªã³ã° ãã¼ã¿ ãã¤ãã©ã¤ã³ã Cloud Dataflow ä¸ã§å®è£ãã
+
+â¢ å·¨å¤§ãªãã¼ã¿ã»ããããã®ãã¸ãã¹åææå ±ã Google BigQuery ãä½¿ç¨ãã¦å¼ãåºã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ãä½¿ç¨ãããã¬ã¼ãã³ã°ãè©ä¾¡ãäºæ¸¬ã TensorFlow ã¨ Cloud ML ãä½¿ç¨ãã¦è¡ã
+
+â¢ ã¹ããªã¼ãã³ã° ãã¼ã¿ããã®è¿éãªåæãå®ç¾ãã
+
+ãã®ã¯ã©ã¹ã¯ãããã­ããã¼ã¨ãã¦ã®çµé¨ããããæ¬¡ã®ãããªããã°ãã¼ã¿å¤æã®ç®¡çãæå½ããæ¹ãå¯¾è±¡ã¨ãã¦ãã¾ãã
+
+â¢ ãã¼ã¿ã®æ½åºãèª­ã¿è¾¼ã¿ãå¤æãã¯ãªã¼ãã³ã°ãæ¤è¨¼ãè¡ã
+
+â¢ ãã¼ã¿å¦çç¨ã®ãã¤ãã©ã¤ã³ã¨ã¢ã¼ã­ãã¯ãã£ãè¨­è¨ãã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ã¨çµ±è¨ã¢ãã«ãä½æãã¦ä¿å®ãã
+
+â¢ ãã¼ã¿ã»ããã«å¯¾ãã¦ã¯ã¨ãªãå®è¡ããã¯ã¨ãªçµæãè¦è¦åãã¦ãã¬ãã¼ããä½æãã
+
+>>>ãã®å°éåéã«ç»é²ãããã¨ã«ãããããã¯Qwiklabsã®å©ç¨è¦ç´ã«åæããFAQã«è¨è¼ããã¦ãã¾ããhttps://qwiklabs.com/terms_of_service <<<",Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp?specialization=gcp-data-machine-learning-jp
+109,Data Engineering on Google Cloud Platform æ¥æ¬èªç Specialization,4,"ãã® 5 é±éã®ãªã³ã©ã¤ã³éç¿å°éè¬åº§ã¯ãGoogle Cloud Platform ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ããæ¹æ³ãå­¦ã¶ããã®å®è·µçãªå¥éã³ã¼ã¹ã§ããè¬ç¾©ããã¢ããã³ãºãªã³ã©ããéãã¦ããã¼ã¿å¦çã·ã¹ãã ã®è¨­è¨ãã¨ã³ããã¼ã¨ã³ãã®ãã¼ã¿ ãã¤ãã©ã¤ã³ã®æ§ç¯ããã¼ã¿ã®åæãæ©æ¢°å­¦ç¿ã®å®æ½æ¹æ³ãå­¦ã³ã¾ãããã®ã³ã¼ã¹ã§ã¯ãæ§é åãéæ§é åãã¹ããªã¼ãã³ã°ã®åç¨®ãã¼ã¿ãæ±ãã¾ãã
+
+ãã®ã³ã¼ã¹ã§ã¯ãæ¬¡ã®ã¹ã­ã«ã«ã¤ãã¦å­¦ç¿ãã¾ãã
+
+â¢ Google Cloud Platform ä¸ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ãã
+
+â¢ éæ§é åãã¼ã¿ã Cloud Dataproc ä¸ã§ Spark ã¨ ML ã® API ãä½¿ã£ã¦æ´»ç¨ãã
+
+â¢ ãããããã³ã¹ããªã¼ãã³ã°ã®ãã¼ã¿ãå¦çããããã«èªåã¹ã±ã¼ãªã³ã° ãã¼ã¿ ãã¤ãã©ã¤ã³ã Cloud Dataflow ä¸ã§å®è£ãã
+
+â¢ å·¨å¤§ãªãã¼ã¿ã»ããããã®ãã¸ãã¹åææå ±ã Google BigQuery ãä½¿ç¨ãã¦å¼ãåºã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ãä½¿ç¨ãããã¬ã¼ãã³ã°ãè©ä¾¡ãäºæ¸¬ã TensorFlow ã¨ Cloud ML ãä½¿ç¨ãã¦è¡ã
+
+â¢ ã¹ããªã¼ãã³ã° ãã¼ã¿ããã®è¿éãªåæãå®ç¾ãã
+
+ãã®ã¯ã©ã¹ã¯ãããã­ããã¼ã¨ãã¦ã®çµé¨ããããæ¬¡ã®ãããªããã°ãã¼ã¿å¤æã®ç®¡çãæå½ããæ¹ãå¯¾è±¡ã¨ãã¦ãã¾ãã
+
+â¢ ãã¼ã¿ã®æ½åºãèª­ã¿è¾¼ã¿ãå¤æãã¯ãªã¼ãã³ã°ãæ¤è¨¼ãè¡ã
+
+â¢ ãã¼ã¿å¦çç¨ã®ãã¤ãã©ã¤ã³ã¨ã¢ã¼ã­ãã¯ãã£ãè¨­è¨ãã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ã¨çµ±è¨ã¢ãã«ãä½æãã¦ä¿å®ãã
+
+â¢ ãã¼ã¿ã»ããã«å¯¾ãã¦ã¯ã¨ãªãå®è¡ããã¯ã¨ãªçµæãè¦è¦åãã¦ãã¬ãã¼ããä½æãã
+
+>>>ãã®å°éåéã«ç»é²ãããã¨ã«ãããããã¯Qwiklabsã®å©ç¨è¦ç´ã«åæããFAQã«è¨è¼ããã¦ãã¾ããhttps://qwiklabs.com/terms_of_service <<<",Serverless Machine Learning with Tensorflow on Google Cloud Platform 日本語版,https://www.coursera.org/learn/serverless-machine-learning-gcp-jp?specialization=gcp-data-machine-learning-jp
+110,Data Engineering on Google Cloud Platform æ¥æ¬èªç Specialization,4,"ãã® 5 é±éã®ãªã³ã©ã¤ã³éç¿å°éè¬åº§ã¯ãGoogle Cloud Platform ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ããæ¹æ³ãå­¦ã¶ããã®å®è·µçãªå¥éã³ã¼ã¹ã§ããè¬ç¾©ããã¢ããã³ãºãªã³ã©ããéãã¦ããã¼ã¿å¦çã·ã¹ãã ã®è¨­è¨ãã¨ã³ããã¼ã¨ã³ãã®ãã¼ã¿ ãã¤ãã©ã¤ã³ã®æ§ç¯ããã¼ã¿ã®åæãæ©æ¢°å­¦ç¿ã®å®æ½æ¹æ³ãå­¦ã³ã¾ãããã®ã³ã¼ã¹ã§ã¯ãæ§é åãéæ§é åãã¹ããªã¼ãã³ã°ã®åç¨®ãã¼ã¿ãæ±ãã¾ãã
+
+ãã®ã³ã¼ã¹ã§ã¯ãæ¬¡ã®ã¹ã­ã«ã«ã¤ãã¦å­¦ç¿ãã¾ãã
+
+â¢ Google Cloud Platform ä¸ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ãã
+
+â¢ éæ§é åãã¼ã¿ã Cloud Dataproc ä¸ã§ Spark ã¨ ML ã® API ãä½¿ã£ã¦æ´»ç¨ãã
+
+â¢ ãããããã³ã¹ããªã¼ãã³ã°ã®ãã¼ã¿ãå¦çããããã«èªåã¹ã±ã¼ãªã³ã° ãã¼ã¿ ãã¤ãã©ã¤ã³ã Cloud Dataflow ä¸ã§å®è£ãã
+
+â¢ å·¨å¤§ãªãã¼ã¿ã»ããããã®ãã¸ãã¹åææå ±ã Google BigQuery ãä½¿ç¨ãã¦å¼ãåºã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ãä½¿ç¨ãããã¬ã¼ãã³ã°ãè©ä¾¡ãäºæ¸¬ã TensorFlow ã¨ Cloud ML ãä½¿ç¨ãã¦è¡ã
+
+â¢ ã¹ããªã¼ãã³ã° ãã¼ã¿ããã®è¿éãªåæãå®ç¾ãã
+
+ãã®ã¯ã©ã¹ã¯ãããã­ããã¼ã¨ãã¦ã®çµé¨ããããæ¬¡ã®ãããªããã°ãã¼ã¿å¤æã®ç®¡çãæå½ããæ¹ãå¯¾è±¡ã¨ãã¦ãã¾ãã
+
+â¢ ãã¼ã¿ã®æ½åºãèª­ã¿è¾¼ã¿ãå¤æãã¯ãªã¼ãã³ã°ãæ¤è¨¼ãè¡ã
+
+â¢ ãã¼ã¿å¦çç¨ã®ãã¤ãã©ã¤ã³ã¨ã¢ã¼ã­ãã¯ãã£ãè¨­è¨ãã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ã¨çµ±è¨ã¢ãã«ãä½æãã¦ä¿å®ãã
+
+â¢ ãã¼ã¿ã»ããã«å¯¾ãã¦ã¯ã¨ãªãå®è¡ããã¯ã¨ãªçµæãè¦è¦åãã¦ãã¬ãã¼ããä½æãã
+
+>>>ãã®å°éåéã«ç»é²ãããã¨ã«ãããããã¯Qwiklabsã®å©ç¨è¦ç´ã«åæããFAQã«è¨è¼ããã¦ãã¾ããhttps://qwiklabs.com/terms_of_service <<<",Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform 日本語版,https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-jp?specialization=gcp-data-machine-learning-jp
+111,Data Engineering on Google Cloud Platform æ¥æ¬èªç Specialization,4,"ãã® 5 é±éã®ãªã³ã©ã¤ã³éç¿å°éè¬åº§ã¯ãGoogle Cloud Platform ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ããæ¹æ³ãå­¦ã¶ããã®å®è·µçãªå¥éã³ã¼ã¹ã§ããè¬ç¾©ããã¢ããã³ãºãªã³ã©ããéãã¦ããã¼ã¿å¦çã·ã¹ãã ã®è¨­è¨ãã¨ã³ããã¼ã¨ã³ãã®ãã¼ã¿ ãã¤ãã©ã¤ã³ã®æ§ç¯ããã¼ã¿ã®åæãæ©æ¢°å­¦ç¿ã®å®æ½æ¹æ³ãå­¦ã³ã¾ãããã®ã³ã¼ã¹ã§ã¯ãæ§é åãéæ§é åãã¹ããªã¼ãã³ã°ã®åç¨®ãã¼ã¿ãæ±ãã¾ãã
+
+ãã®ã³ã¼ã¹ã§ã¯ãæ¬¡ã®ã¹ã­ã«ã«ã¤ãã¦å­¦ç¿ãã¾ãã
+
+â¢ Google Cloud Platform ä¸ã§ãã¼ã¿å¦çã·ã¹ãã ãè¨­è¨ãæ§ç¯ãã
+
+â¢ éæ§é åãã¼ã¿ã Cloud Dataproc ä¸ã§ Spark ã¨ ML ã® API ãä½¿ã£ã¦æ´»ç¨ãã
+
+â¢ ãããããã³ã¹ããªã¼ãã³ã°ã®ãã¼ã¿ãå¦çããããã«èªåã¹ã±ã¼ãªã³ã° ãã¼ã¿ ãã¤ãã©ã¤ã³ã Cloud Dataflow ä¸ã§å®è£ãã
+
+â¢ å·¨å¤§ãªãã¼ã¿ã»ããããã®ãã¸ãã¹åææå ±ã Google BigQuery ãä½¿ç¨ãã¦å¼ãåºã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ãä½¿ç¨ãããã¬ã¼ãã³ã°ãè©ä¾¡ãäºæ¸¬ã TensorFlow ã¨ Cloud ML ãä½¿ç¨ãã¦è¡ã
+
+â¢ ã¹ããªã¼ãã³ã° ãã¼ã¿ããã®è¿éãªåæãå®ç¾ãã
+
+ãã®ã¯ã©ã¹ã¯ãããã­ããã¼ã¨ãã¦ã®çµé¨ããããæ¬¡ã®ãããªããã°ãã¼ã¿å¤æã®ç®¡çãæå½ããæ¹ãå¯¾è±¡ã¨ãã¦ãã¾ãã
+
+â¢ ãã¼ã¿ã®æ½åºãèª­ã¿è¾¼ã¿ãå¤æãã¯ãªã¼ãã³ã°ãæ¤è¨¼ãè¡ã
+
+â¢ ãã¼ã¿å¦çç¨ã®ãã¤ãã©ã¤ã³ã¨ã¢ã¼ã­ãã¯ãã£ãè¨­è¨ãã
+
+â¢ æ©æ¢°å­¦ç¿ã¢ãã«ã¨çµ±è¨ã¢ãã«ãä½æãã¦ä¿å®ãã
+
+â¢ ãã¼ã¿ã»ããã«å¯¾ãã¦ã¯ã¨ãªãå®è¡ããã¯ã¨ãªçµæãè¦è¦åãã¦ãã¬ãã¼ããä½æãã
+
+>>>ãã®å°éåéã«ç»é²ãããã¨ã«ãããããã¯Qwiklabsã®å©ç¨è¦ç´ã«åæããFAQã«è¨è¼ããã¦ãã¾ããhttps://qwiklabs.com/terms_of_service <<<",Serverless Data Analysis with Google BigQuery and Cloud Dataflow 日本語版,https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-jp?specialization=gcp-data-machine-learning-jp
+112,Data Engineering on Google Cloud Platform en EspaÃ±ol Specialization,4,"EspecializaciÃ³n acelerada en lÃ­nea de cinco semanas de duraciÃ³n, donde los participantes reciben una introducciÃ³n prÃ¡ctica en el diseÃ±o y compilaciÃ³n de sistemas de procesamiento de datos en Google Cloud Platform. Usando una combinaciÃ³n de presentaciones, demostraciones y labs prÃ¡cticos, los participantes aprenderÃ¡n a diseÃ±ar sistemas de procesamiento de datos, compilar canalizaciones de datos de extremo a extremo, analizar datos y llevar a efecto funciones de aprendizaje automÃ¡tico. Este curso le enseÃ±arÃ¡ las siguientes habilidades:
+
+â¢ DiseÃ±ar y crear sistemas de procesamiento de datos en Google Cloud Platform
+
+â¢ Aprovechar los datos no estructurados mediante Spark y las API de AA en Cloud Dataproc
+
+â¢ Procesar los datos por lotes y de transmisiÃ³n mediante la implementaciÃ³n de canalizaciones de datos de ajuste de escala automÃ¡tico en Cloud Dataflow
+
+â¢ Generar estadÃ­sticas empresariales a partir de conjuntos de datos muy grandes mediante Google BigQuery
+
+â¢ Entrenar, evaluar y predecir por medio de los modelos de aprendizaje automÃ¡tico con Tensorflow y Cloud ML
+
+â¢ Extraer estadÃ­sticas al instante a partir de los datos de transmisiÃ³n
+
+Este curso estÃ¡ dirigido a desarrolladores experimentados responsables de la administraciÃ³n de transformaciones de macrodatos.
+
+>>> Al inscribirse en esta especializaciÃ³n acepta los TÃ©rminos de Servicio de Qwiklabs segÃºn lo establecido en las Preguntas Frecuentes, disponibles en el apartado: https://qwiklabs.com/terms_of_service <<<",Google Cloud Platform Big Data and Machine Learning Fundamentals en Español,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es?specialization=gcp-data-machine-learning-es
+113,Data Engineering on Google Cloud Platform en EspaÃ±ol Specialization,4,"EspecializaciÃ³n acelerada en lÃ­nea de cinco semanas de duraciÃ³n, donde los participantes reciben una introducciÃ³n prÃ¡ctica en el diseÃ±o y compilaciÃ³n de sistemas de procesamiento de datos en Google Cloud Platform. Usando una combinaciÃ³n de presentaciones, demostraciones y labs prÃ¡cticos, los participantes aprenderÃ¡n a diseÃ±ar sistemas de procesamiento de datos, compilar canalizaciones de datos de extremo a extremo, analizar datos y llevar a efecto funciones de aprendizaje automÃ¡tico. Este curso le enseÃ±arÃ¡ las siguientes habilidades:
+
+â¢ DiseÃ±ar y crear sistemas de procesamiento de datos en Google Cloud Platform
+
+â¢ Aprovechar los datos no estructurados mediante Spark y las API de AA en Cloud Dataproc
+
+â¢ Procesar los datos por lotes y de transmisiÃ³n mediante la implementaciÃ³n de canalizaciones de datos de ajuste de escala automÃ¡tico en Cloud Dataflow
+
+â¢ Generar estadÃ­sticas empresariales a partir de conjuntos de datos muy grandes mediante Google BigQuery
+
+â¢ Entrenar, evaluar y predecir por medio de los modelos de aprendizaje automÃ¡tico con Tensorflow y Cloud ML
+
+â¢ Extraer estadÃ­sticas al instante a partir de los datos de transmisiÃ³n
+
+Este curso estÃ¡ dirigido a desarrolladores experimentados responsables de la administraciÃ³n de transformaciones de macrodatos.
+
+>>> Al inscribirse en esta especializaciÃ³n acepta los TÃ©rminos de Servicio de Qwiklabs segÃºn lo establecido en las Preguntas Frecuentes, disponibles en el apartado: https://qwiklabs.com/terms_of_service <<<",Serverless Machine Learning con TensorFlow en GCP,https://www.coursera.org/learn/serverless-machine-learning-gcp-es?specialization=gcp-data-machine-learning-es
+114,Data Engineering on Google Cloud Platform en EspaÃ±ol Specialization,4,"EspecializaciÃ³n acelerada en lÃ­nea de cinco semanas de duraciÃ³n, donde los participantes reciben una introducciÃ³n prÃ¡ctica en el diseÃ±o y compilaciÃ³n de sistemas de procesamiento de datos en Google Cloud Platform. Usando una combinaciÃ³n de presentaciones, demostraciones y labs prÃ¡cticos, los participantes aprenderÃ¡n a diseÃ±ar sistemas de procesamiento de datos, compilar canalizaciones de datos de extremo a extremo, analizar datos y llevar a efecto funciones de aprendizaje automÃ¡tico. Este curso le enseÃ±arÃ¡ las siguientes habilidades:
+
+â¢ DiseÃ±ar y crear sistemas de procesamiento de datos en Google Cloud Platform
+
+â¢ Aprovechar los datos no estructurados mediante Spark y las API de AA en Cloud Dataproc
+
+â¢ Procesar los datos por lotes y de transmisiÃ³n mediante la implementaciÃ³n de canalizaciones de datos de ajuste de escala automÃ¡tico en Cloud Dataflow
+
+â¢ Generar estadÃ­sticas empresariales a partir de conjuntos de datos muy grandes mediante Google BigQuery
+
+â¢ Entrenar, evaluar y predecir por medio de los modelos de aprendizaje automÃ¡tico con Tensorflow y Cloud ML
+
+â¢ Extraer estadÃ­sticas al instante a partir de los datos de transmisiÃ³n
+
+Este curso estÃ¡ dirigido a desarrolladores experimentados responsables de la administraciÃ³n de transformaciones de macrodatos.
+
+>>> Al inscribirse en esta especializaciÃ³n acepta los TÃ©rminos de Servicio de Qwiklabs segÃºn lo establecido en las Preguntas Frecuentes, disponibles en el apartado: https://qwiklabs.com/terms_of_service <<<",Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform en Español,https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-es?specialization=gcp-data-machine-learning-es
+115,Data Engineering on Google Cloud Platform en EspaÃ±ol Specialization,4,"EspecializaciÃ³n acelerada en lÃ­nea de cinco semanas de duraciÃ³n, donde los participantes reciben una introducciÃ³n prÃ¡ctica en el diseÃ±o y compilaciÃ³n de sistemas de procesamiento de datos en Google Cloud Platform. Usando una combinaciÃ³n de presentaciones, demostraciones y labs prÃ¡cticos, los participantes aprenderÃ¡n a diseÃ±ar sistemas de procesamiento de datos, compilar canalizaciones de datos de extremo a extremo, analizar datos y llevar a efecto funciones de aprendizaje automÃ¡tico. Este curso le enseÃ±arÃ¡ las siguientes habilidades:
+
+â¢ DiseÃ±ar y crear sistemas de procesamiento de datos en Google Cloud Platform
+
+â¢ Aprovechar los datos no estructurados mediante Spark y las API de AA en Cloud Dataproc
+
+â¢ Procesar los datos por lotes y de transmisiÃ³n mediante la implementaciÃ³n de canalizaciones de datos de ajuste de escala automÃ¡tico en Cloud Dataflow
+
+â¢ Generar estadÃ­sticas empresariales a partir de conjuntos de datos muy grandes mediante Google BigQuery
+
+â¢ Entrenar, evaluar y predecir por medio de los modelos de aprendizaje automÃ¡tico con Tensorflow y Cloud ML
+
+â¢ Extraer estadÃ­sticas al instante a partir de los datos de transmisiÃ³n
+
+Este curso estÃ¡ dirigido a desarrolladores experimentados responsables de la administraciÃ³n de transformaciones de macrodatos.
+
+>>> Al inscribirse en esta especializaciÃ³n acepta los TÃ©rminos de Servicio de Qwiklabs segÃºn lo establecido en las Preguntas Frecuentes, disponibles en el apartado: https://qwiklabs.com/terms_of_service <<<",Serverless Data Analysis with Google BigQuery and Cloud Dataflow en Español,https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-es?specialization=gcp-data-machine-learning-es
+116,Database systems Specialization,4,"This specialized program is aimed at computer people who want to enter the field of information systems and learn their different types of requirements, architectures, performance, techniques and tools so you can know when to use business intelligence, data mining, data science, databases , databases in memory or big data in order to have reliable, maintainable and scalable data intensive systems. Through 4 courses, you will cover [transactional relational databases, business intelligence and Data warehousing, NoSQL technologies, and reliable, scalable and maintainable data intensive applications that will prepare you for a specialized information system consultant or data scientist.",Relational database systems,https://www.coursera.org/learn/relational-database
+117,Database systems Specialization,4,"This specialized program is aimed at computer people who want to enter the field of information systems and learn their different types of requirements, architectures, performance, techniques and tools so you can know when to use business intelligence, data mining, data science, databases , databases in memory or big data in order to have reliable, maintainable and scalable data intensive systems. Through 4 courses, you will cover [transactional relational databases, business intelligence and Data warehousing, NoSQL technologies, and reliable, scalable and maintainable data intensive applications that will prepare you for a specialized information system consultant or data scientist.",Business intelligence and data warehousing,https://www.coursera.org/learn/business-intelligence-data-warehousing
+118,Database systems Specialization,4,"This specialized program is aimed at computer people who want to enter the field of information systems and learn their different types of requirements, architectures, performance, techniques and tools so you can know when to use business intelligence, data mining, data science, databases , databases in memory or big data in order to have reliable, maintainable and scalable data intensive systems. Through 4 courses, you will cover [transactional relational databases, business intelligence and Data warehousing, NoSQL technologies, and reliable, scalable and maintainable data intensive applications that will prepare you for a specialized information system consultant or data scientist.",NoSQL systems,https://www.coursera.org/learn/nosql-databases
+119,Database systems Specialization,4,"This specialized program is aimed at computer people who want to enter the field of information systems and learn their different types of requirements, architectures, performance, techniques and tools so you can know when to use business intelligence, data mining, data science, databases , databases in memory or big data in order to have reliable, maintainable and scalable data intensive systems. Through 4 courses, you will cover [transactional relational databases, business intelligence and Data warehousing, NoSQL technologies, and reliable, scalable and maintainable data intensive applications that will prepare you for a specialized information system consultant or data scientist.",Designing data-intensive applications,https://www.coursera.org/learn/data-intensive-applications
+120,Data Engineering on Google Cloud Platform em PortuguÃªs Brasileiro Specialization,4,"Nesta especializaÃ§Ã£o on-line intensiva de cinco semanas, os participantes terÃ£o uma introduÃ§Ã£o prÃ¡tica sobre como projetar e criar sistemas de processamento de dados no Google Cloud Platform. Por meio de uma combinaÃ§Ã£o de apresentaÃ§Ãµes, demonstraÃ§Ãµes e laboratÃ³rios prÃ¡ticos, os participantes aprenderÃ£o a projetar sistemas de processamento de dados, criar canais completos e anÃ¡lises de dados e desenvolver soluÃ§Ãµes de aprendizado de mÃ¡quina. Neste curso, abordamos dados estruturados, nÃ£o estruturados e de streaming.
+
+Neste curso, os participantes irÃ£o adquirir as seguintes habilidades:
+
+â¢ projetar e criar sistemas de processamento de dados no Google Cloud Platform
+
+â¢ usar dados nÃ£o estruturados com as APIs do Spark e de aprendizado de mÃ¡quina no Cloud Dataproc
+
+â¢ processar dados em lote e streaming com a implementaÃ§Ã£o de canais de dados de escalonamento automÃ¡tico no Cloud Dataflow
+
+â¢ derivar insights de negÃ³cios a partir de conjuntos de dados extremamente grandes usando o Google BigQuery
+
+â¢ treinar, avaliar e prever com modelos de aprendizado de mÃ¡quina usando o TensorFlow e o Cloud ML
+
+â¢ ativar insights instantÃ¢neos dos dados de streaming
+
+Esta aula destina-se a desenvolvedores experientes responsÃ¡veis pelo gerenciamento de transformaÃ§Ãµes de Big Data.
+
+>>> Ao se inscrever nesta especializaÃ§Ã£o, vocÃª concorda com os Termos de ServiÃ§o do Qwiklabs conforme estabelecido na seÃ§Ã£o de perguntas frequentes. Veja os Termos de ServiÃ§o aqui: https://qwiklabs.com/terms_of_service <<<",Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br?specialization=gcp-data-machine-learning-br
+121,Data Engineering on Google Cloud Platform em PortuguÃªs Brasileiro Specialization,4,"Nesta especializaÃ§Ã£o on-line intensiva de cinco semanas, os participantes terÃ£o uma introduÃ§Ã£o prÃ¡tica sobre como projetar e criar sistemas de processamento de dados no Google Cloud Platform. Por meio de uma combinaÃ§Ã£o de apresentaÃ§Ãµes, demonstraÃ§Ãµes e laboratÃ³rios prÃ¡ticos, os participantes aprenderÃ£o a projetar sistemas de processamento de dados, criar canais completos e anÃ¡lises de dados e desenvolver soluÃ§Ãµes de aprendizado de mÃ¡quina. Neste curso, abordamos dados estruturados, nÃ£o estruturados e de streaming.
+
+Neste curso, os participantes irÃ£o adquirir as seguintes habilidades:
+
+â¢ projetar e criar sistemas de processamento de dados no Google Cloud Platform
+
+â¢ usar dados nÃ£o estruturados com as APIs do Spark e de aprendizado de mÃ¡quina no Cloud Dataproc
+
+â¢ processar dados em lote e streaming com a implementaÃ§Ã£o de canais de dados de escalonamento automÃ¡tico no Cloud Dataflow
+
+â¢ derivar insights de negÃ³cios a partir de conjuntos de dados extremamente grandes usando o Google BigQuery
+
+â¢ treinar, avaliar e prever com modelos de aprendizado de mÃ¡quina usando o TensorFlow e o Cloud ML
+
+â¢ ativar insights instantÃ¢neos dos dados de streaming
+
+Esta aula destina-se a desenvolvedores experientes responsÃ¡veis pelo gerenciamento de transformaÃ§Ãµes de Big Data.
+
+>>> Ao se inscrever nesta especializaÃ§Ã£o, vocÃª concorda com os Termos de ServiÃ§o do Qwiklabs conforme estabelecido na seÃ§Ã£o de perguntas frequentes. Veja os Termos de ServiÃ§o aqui: https://qwiklabs.com/terms_of_service <<<",Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro,https://www.coursera.org/learn/serverless-machine-learning-gcp-br?specialization=gcp-data-machine-learning-br
+122,Data Engineering on Google Cloud Platform em PortuguÃªs Brasileiro Specialization,4,"Nesta especializaÃ§Ã£o on-line intensiva de cinco semanas, os participantes terÃ£o uma introduÃ§Ã£o prÃ¡tica sobre como projetar e criar sistemas de processamento de dados no Google Cloud Platform. Por meio de uma combinaÃ§Ã£o de apresentaÃ§Ãµes, demonstraÃ§Ãµes e laboratÃ³rios prÃ¡ticos, os participantes aprenderÃ£o a projetar sistemas de processamento de dados, criar canais completos e anÃ¡lises de dados e desenvolver soluÃ§Ãµes de aprendizado de mÃ¡quina. Neste curso, abordamos dados estruturados, nÃ£o estruturados e de streaming.
+
+Neste curso, os participantes irÃ£o adquirir as seguintes habilidades:
+
+â¢ projetar e criar sistemas de processamento de dados no Google Cloud Platform
+
+â¢ usar dados nÃ£o estruturados com as APIs do Spark e de aprendizado de mÃ¡quina no Cloud Dataproc
+
+â¢ processar dados em lote e streaming com a implementaÃ§Ã£o de canais de dados de escalonamento automÃ¡tico no Cloud Dataflow
+
+â¢ derivar insights de negÃ³cios a partir de conjuntos de dados extremamente grandes usando o Google BigQuery
+
+â¢ treinar, avaliar e prever com modelos de aprendizado de mÃ¡quina usando o TensorFlow e o Cloud ML
+
+â¢ ativar insights instantÃ¢neos dos dados de streaming
+
+Esta aula destina-se a desenvolvedores experientes responsÃ¡veis pelo gerenciamento de transformaÃ§Ãµes de Big Data.
+
+>>> Ao se inscrever nesta especializaÃ§Ã£o, vocÃª concorda com os Termos de ServiÃ§o do Qwiklabs conforme estabelecido na seÃ§Ã£o de perguntas frequentes. Veja os Termos de ServiÃ§o aqui: https://qwiklabs.com/terms_of_service <<<",Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro,https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br?specialization=gcp-data-machine-learning-br
+123,Data Engineering on Google Cloud Platform em PortuguÃªs Brasileiro Specialization,4,"Nesta especializaÃ§Ã£o on-line intensiva de cinco semanas, os participantes terÃ£o uma introduÃ§Ã£o prÃ¡tica sobre como projetar e criar sistemas de processamento de dados no Google Cloud Platform. Por meio de uma combinaÃ§Ã£o de apresentaÃ§Ãµes, demonstraÃ§Ãµes e laboratÃ³rios prÃ¡ticos, os participantes aprenderÃ£o a projetar sistemas de processamento de dados, criar canais completos e anÃ¡lises de dados e desenvolver soluÃ§Ãµes de aprendizado de mÃ¡quina. Neste curso, abordamos dados estruturados, nÃ£o estruturados e de streaming.
+
+Neste curso, os participantes irÃ£o adquirir as seguintes habilidades:
+
+â¢ projetar e criar sistemas de processamento de dados no Google Cloud Platform
+
+â¢ usar dados nÃ£o estruturados com as APIs do Spark e de aprendizado de mÃ¡quina no Cloud Dataproc
+
+â¢ processar dados em lote e streaming com a implementaÃ§Ã£o de canais de dados de escalonamento automÃ¡tico no Cloud Dataflow
+
+â¢ derivar insights de negÃ³cios a partir de conjuntos de dados extremamente grandes usando o Google BigQuery
+
+â¢ treinar, avaliar e prever com modelos de aprendizado de mÃ¡quina usando o TensorFlow e o Cloud ML
+
+â¢ ativar insights instantÃ¢neos dos dados de streaming
+
+Esta aula destina-se a desenvolvedores experientes responsÃ¡veis pelo gerenciamento de transformaÃ§Ãµes de Big Data.
+
+>>> Ao se inscrever nesta especializaÃ§Ã£o, vocÃª concorda com os Termos de ServiÃ§o do Qwiklabs conforme estabelecido na seÃ§Ã£o de perguntas frequentes. Veja os Termos de ServiÃ§o aqui: https://qwiklabs.com/terms_of_service <<<",Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro,https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br?specialization=gcp-data-machine-learning-br
